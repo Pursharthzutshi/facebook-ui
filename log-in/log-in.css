@@ -1,0 +1,100 @@
+body{
+    background:#f4f4f4;
+
+
+
+}
+
+.about-facebook{
+    position: absolute;
+    left:270px;
+    top:240px;
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.facebook-logo{
+    color:#1474f4;
+    font-size:55px;
+    position: absolute;
+    font-family: ;
+    top:140px;
+    left:273px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.sign-in-box{
+    background:white;
+    border:1px solid white;
+    width:300px;
+    height:255px;
+    margin-left:800px;
+    margin-top:140px;
+    padding:40px;
+    border-radius:8px;
+    box-shadow:1px 4px 4px 4px #EEEEEE
+
+;
+
+}
+
+.email-id,.password{
+    width:350px;
+    height:30px;
+    padding: 20px;
+    margin-left:-27px;
+    border-radius:4px;
+    border: 1px solid lightgray;
+    font-size: 17px;
+    color:lightgray;
+    opacity: 80%;
+
+
+}
+
+.email-id{
+    margin-top:-20px;
+}
+
+
+.log-in-button{
+    background:#1b74f4;
+    border:1px solid #1b74f4;
+    border-radius:8px;
+    margin-left:-25px;
+    width:350px;
+    height:50px;
+    padding:8px;
+    color:white;
+    font-size:20px;
+    font-family: sans-serif;
+}
+
+.forgotten-password-link{
+    color:#1b74f4;
+    text-decoration: none;
+    margin-left:85px;
+}
+
+.forgotten-password-underline{
+    width:340px;
+    height:1px;
+    background:lightgray;
+    margin-top:22px;
+    margin-left:-22px;
+}
+
+.create-account-button{
+    background:#42b72a;
+    border:1px solid #42b72a;
+    border-radius:8px;
+    margin-left:55px;
+    margin-top:20px;
+    width:200px;
+    height:50px;
+    padding:8px;
+    color:white;
+    font-size:17px;
+}

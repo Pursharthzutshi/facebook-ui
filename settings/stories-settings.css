@@ -1,0 +1,182 @@
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1168px;
+}
+
+
+.settings-section{
+
+    margin-top:-8px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-170px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.face-recognition-heading{
+    font-size:20px;
+    margin-left: 420px;
+    margin-top: 14px;
+}
+
+.face-recognition-notice{
+    font-family: 'Roboto';
+    margin-left: 420px;
+}
+
+
+.face-recognition-notice-link:hover{
+    text-decoration: underline;
+}
+
+.face-recognition-para-heading{
+    margin-left:430px;
+    font-family: 'Roboto';
+}
+
+.face-recognition-notice-link{
+    text-decoration: none;
+    color:#385898;
+    font-family: 'Roboto';
+}
+
+
+
+.sharing-options-first-line,.sharing-options-second-line{
+    width:880px;
+    height:1px;
+    background: lightgray;
+    margin-left:420px;
+    margin-top:33px;
+}
+
+.sharing-options-first-line{
+    margin-top:4px;
+}
+
+.sharing-options-middle-line{
+    width:720px;
+    height:1px;
+    background:whitesmoke;
+    margin-left:580px;
+    margin-top:4px;
+}
+
+.sharing-options-second-line{
+    margin-top:7px;
+}
+
+.sharing-hover-box,.sharing-hover-box-2{
+    margin-left:570px;
+    padding:px;
+    height:40px;
+    width:730px;
+    margin-top:px;
+    position: relative;
+}
+
+.sharing-hover-box{
+    margin-top:2;
+    
+}
+
+.sharing-hover-box-2{
+    margin-top:12;
+    
+}
+
+
+.sharing-hover-box:hover,.sharing-hover-box-2:hover{
+    cursor: pointer;
+    background: #ECEFF1;    
+    transition: .2s;
+    opacity: 90%;
+    
+}
+
+.sharing-hover-box:hover{
+    width:730px;
+}
+
+.sharing-hover-box:hover{
+  width:;  
+}
+
+
+.face-recognition-para-heading{
+    margin-top:19px;
+
+}
+
+
+.face-recognition-para{
+    position: absolute;
+    top:222px;
+    left:430px;
+
+}
+
+.sharing-options-para-1,.sharing-options-para-2{
+    margin-left:160px;
+    margin-top:-34px;
+    font-size:14px;
+    color:gray;
+    font-family: 'Roboto';
+
+}
+
+.sharing-options-para-1{
+    margin-top:-43px;
+    margin-left:7px;
+    padding:12px;
+}
+
+.sharing-options-para-2{
+    margin-top:-2px;
+    margin-left:8px;
+    padding:12px;
+}
+
+.allow,.dont-allow{
+    margin-left:480px;
+    margin-top:-27px;
+    color:#65676b;
+    font-family:'Roboto';
+}
+
+.allow{
+     margin-top:-47px;
+}
+
+.dont-allow{
+    margin-top:-46px;
+}
+
+.edit-link-1,.edit-link-2{
+    margin-left:677px;
+    position: absolute;
+    text-decoration: none;
+    color:#1b74f4;
+}
+
+.edit-link-1{
+    margin-top:-3px;
+    top:12px
+}
+
+
+.edit-link-2{
+top:8px;
+}
+
+.edit-link:hover,.edit-link-2:hover{
+
+    text-decoration:underline;
+}
+

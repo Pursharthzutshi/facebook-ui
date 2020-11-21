@@ -1,0 +1,259 @@
+
+
+.friends-section:hover{
+    overflow-y: scroll;
+    transition: .3s;
+
+}
+
+.friends-section::-webkit-scrollbar{
+    background: #f0f2f5;
+    border:1px solid #f0f2f5;
+
+}
+
+.friends-section::-webkit-scrollbar-thumb{
+    background: lightgray;
+    border-radius:10px;
+
+}
+
+.friends-section::-webkit-scrollbar-button{
+    display: hidden;
+}
+
+
+
+.nav-bar{
+    border-bottom:1px solid lightgray;
+    box-shadow:4px 2px 2px lightgray;
+    height:50px;
+    margin-left:1px;
+    position: fixed;
+    width:100%;
+    margin-top:0px;
+    z-index:+1;
+    position: fixed;
+
+}
+
+.nav-bar-underline{
+    width:1520px;
+    background: lightgray;
+    height:1px;
+    margin-top:-20px;
+}
+
+.friends-section{
+    margin-top:50px;
+    bottom: 0;
+    overflow-y:scroll;
+    top: 0;
+    position: fixed;
+}
+
+.friends-box{
+
+
+    width:360px;
+    height:1440px;
+    border-top:1px solid lightgray;
+    background:white;
+    box-shadow: 3px 2px 1px lightgray;
+    margin-top:0px;
+
+}
+
+.friends-icon-column{
+    display:flex;
+    flex-direction: column;
+}
+
+
+.friends-text-column{
+    display:flex;
+    flex-direction: column;
+    margin-left:85px;
+
+}
+
+
+.home-link,.all-friends-link{
+    font-size:18px;
+    text-decoration: none;
+    color:black;
+}
+
+.home-link{
+
+    position: absolute;
+    top:120px;
+    left:70px;
+
+}
+
+.all-friends-link{
+
+    position: absolute;
+    top:70px;
+    left:70px;
+}
+
+.friends-heading{
+    margin-left:23px;
+
+
+}
+
+.home-icon,.all-friends-icon{
+
+
+    border:1px solid #00a7ff;
+    border-radius:200px;
+    padding:1px;
+    font-size:24px;
+    margin-left:20px;
+
+}
+
+
+.home-icon{
+
+    color:white;
+    background:#00a7ff;
+    border:1px solid #00a7ff;
+    border-radius:200px;
+    padding:1px;
+    font-size:24px;
+    margin-left:20px;
+
+}
+
+.all-friends-icon{
+
+    color:black;
+    padding:px;
+    background:lightgray;
+    border:1px solid lightgray;
+    border-radius:200px;
+    padding:1px;
+    font-size:24px;
+    margin-left:20px;
+
+}
+
+.friends-underline{
+    width:330px;
+    height:1px;
+    margin-left:18px;
+    background: lightgray;
+}
+
+.friend-request{
+    font-size:18px;
+    margin-left:20px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.view-request-link{
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:20px;
+    font-size:14px;
+}
+
+.profile-images{
+    margin-top:20px;
+    margin-left:20px;
+    width:60px;
+    height:60px;
+    border:1px solid //;
+    border-radius:200px;
+
+}
+
+.profile-name{
+    margin-left:100px;
+    margin-top:-62px;
+    font-size:15px;
+}
+
+.mutual-friends{
+    font-size:13px;
+    margin-left:140px;
+    margin-top:-23px;
+    color:gray;
+}
+
+.mutual-profile-images-1,.mutual-profile-images-2{
+    width:20px;
+    height:20px;
+    border:1px solid lightgray;
+    border-radius:200px;
+}
+
+.mutual-profile-images-1{
+    margin-left:97px;
+    margin-top:-10px;
+}
+
+.mutual-profile-images-2{
+    margin-left:-10px;
+    margin-top:-10px;
+}
+
+.request-button-row{
+    display:flex;
+    flex-direction: row;
+    margin-top:-20px;
+    margin-left:18px;
+}
+
+.confirm-button,.delete-button{
+    padding:7px;
+    width:120px;
+    height:35px;
+    border-radius:5px;
+    font-size:14px;
+    cursor:pointer;
+    font-family: 'Lato', sans-serif;
+
+
+
+}
+
+.confirm-button{
+    border:1px solid #1877f2;
+    background:	#1877f2;
+    color:white;
+    margin-left:80px;
+    margin-top:px;
+}
+
+
+.delete-button{
+    border:1px solid lightgray;
+    background:	lightgray;
+    color:black;
+    margin-left:8px;
+}
+
+.confirm-button:hover,.delete-button:hover{
+    transition: .3s;
+    background: rgba(black, 0.8);
+    opacity: 70%;
+}
+
+.center-page-icon{
+    margin-left:800px;
+    margin-top:300px;
+    font-size:100px;
+    color:gray;
+}
+
+.center-page-text{
+    margin-left:650px;
+    margin-top:50px;
+    font-size:23px;
+    color:gray;
+}

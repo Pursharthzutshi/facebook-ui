@@ -1,0 +1,159 @@
+.security-and-login-section{
+    margin-top:2px;
+}
+
+.settings-heading{
+    margin-top:-560px;
+
+}
+.settings-section{
+    margin-top:0px;
+    position:;
+}
+
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1183px;
+}
+
+.facebook-language-heading,.region-format-heading,.posts-heading,.multilingual-heading{
+    font-size:16px;
+    margin-left:432px;
+    margin-top: 18px;
+    font-family: 'Roboto';
+}
+
+.language-para-1,.region-para-1,.region-para-2,.posts-para-1,.posts-para-2,.posts-para-3,.multilingual-para{
+    margin-top:-1px;
+    margin-left:5px;
+    font-size:14px;
+    color:#455A64;
+    line-height: 21px;
+}
+
+.language-hover-box{
+    margin-left:600px;
+    margin-top:-45px;
+    padding:10px;
+    width:730px;
+    height:50px;
+    position: relative;
+}
+
+.region-hover-box,.region-hover-box-2,.posts-hover-box,.posts-hover-box-2,.posts-hover-box-3,.multilingual-hover-box{
+    margin-left:600px;
+    padding:10px;
+    width:730px;
+    height:30px;
+    position: relative;
+}
+
+.region-hover-box{
+    margin-top:-42px;
+}
+
+.posts-hover-box{
+    margin-top:-55px;
+}
+
+.region-hover-box-2,.posts-hover-box-2,.posts-hover-box-3{
+    margin-top:24px;
+}
+
+
+.multilingual-hover-box{
+    margin-top:-46px;
+}
+
+
+.language-hover-box:hover,.region-hover-box:hover,.region-hover-box-2:hover,.posts-hover-box:hover,.posts-hover-box-2:hover,.posts-hover-box-3:hover,.multilingual-hover-box:hover{
+
+    cursor:pointer;
+    background: #ECEFF1;
+    opacity: 90%;
+
+}
+
+.language-hover-box:hover{
+    width:753px;
+    height:50px;
+}
+
+.region-hover-box:hover,.region-hover-box-2:hover,.posts-hover-box:hover,.posts-hover-box-2:hover,.posts-hover-box-3:hover,.multilingual-hover-box:hover{
+    width:753px;
+    height:30px;
+}
+
+.language-english-uk,.celsius,.english,.english-and-hindi,.turned-off{
+    margin-top:-55px;
+    margin-left:480px;
+    font-size:15px;
+    color:#6c6d77;
+    font-family: 'Roboto';
+
+
+}
+
+.celsius,.english-and-hindi,.english{
+    margin-top: -34px;
+}
+
+.english,.english-and-hindi,.turned-off{
+    margin-left:480px;
+}
+
+.turned-off{
+    margin-top: -35px;
+}
+
+.language-and-region-heading{
+    font-size:19px;
+    margin-left:422px;
+    margin-top: 18px;
+    color:;
+}
+
+
+.facebook-language-first-line{
+    width:963px;
+    height:1px;
+    background:#757575;
+    margin-left:413px;
+}
+
+
+.facebook-language-last-line{
+    width:963px;
+    height:1px;
+    background:
+#9E9E9E;
+    margin-top:9px;
+    margin-left:414px;
+}
+
+.posts-last-line,.multilingual-last-line{
+    width:963px;
+    height:1px;
+    background:#9E9E9E;
+    margin-top:9px;
+    margin-left:414px;
+}
+
+.region-format-last-line{
+    width:963px;
+    height:1px;
+    background:lightgray;
+    margin-top:9px;
+    margin-left:414px;
+}
+
+.edit-link-1{
+    position: absolute;
+    top:10px;
+    left:700px;
+    text-decoration: none;
+    color:#216fde;
+}

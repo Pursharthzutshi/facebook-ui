@@ -1,0 +1,185 @@
+body{
+    font-family: 'Arial', sans-serif;
+    margin:0;
+
+}
+
+
+.nav-bar-underline{
+    width:1520px;
+    background: lightgray;
+    height:1px;
+    margin-top:-20px;
+}
+
+
+.icons-row{
+    display:flex;
+    justify-content: space-evenly;
+    position: relative;
+    left:-10px;
+}
+
+
+.facebook-logo-box{
+    padding:2px;
+    background:#1c74f4;
+    width:35px;
+    height:35px;
+    border-radius: 200px;
+    border:1px solid #1c74f4;
+    box-shadow:3px 1px 1px solid lightgray;
+    margin-left:-160px;
+    margin-top:2px;
+  
+}
+
+.facebook-logo{
+    width:24px;
+    margin-left:-10px;
+    margin-top:-22px;
+    color:white;
+    padding:20px;
+    font-size:43px;
+    font-weight:bold;
+    font-family:sans-serif;
+}
+
+
+.search-input-row{
+    display: flex;
+    flex-direction:row;
+    margin-left:-100px;
+    gap:12px;
+
+}
+
+
+.search-bar{
+    padding:2px;
+    height:30px;
+    width:200px;
+    margin-left:-40px;
+    margin-top:8px;
+    border:1px solid white;
+
+}
+
+#search-bar{
+    padding:2px;
+    height:30px;
+    width:200px;
+    margin-left:-40px;
+    margin-top:8px;
+    border:1px solid white;
+}
+
+.search-bar-icon{
+    margin-left:-230px;
+    margin-top:13px;
+}
+
+.nav-bar-middle-icons-row{
+
+    display: flex;
+    gap:33px;
+    position: relative;
+    left:130px;
+
+
+}
+
+#facebook-ui:target,#facebook-ui-friends:target,#facebook-ui-videos:target,#facebook-ui-marketplace:target,#facebook-ui-groups:target{
+    color:blue;
+    font-size:30px;
+    background:; 
+    color:#1877f2;
+
+    border-radius:px;
+    border-bottom:1px solid #1877f2;
+    border-width: 2px;
+    transition: .2s;
+
+
+}
+
+#facebook-ui,#facebook-ui-friends,#facebook-ui-videos,#facebook-ui-marketplace,#facebook-ui-groups{
+    display: flex;
+    margin-left:97px;
+    margin-right:-57px;
+    margin-top:10px;
+    font-size:30px;
+    color:gray;
+}
+
+
+
+.nav-bar-middle-icons:hover{
+    color:	#1877f2;
+    transform: scale(1.2);
+    border-bottom:3px solid 	#1877f2;
+    border-width: 2px;
+}
+
+
+
+
+.profile-image{
+    margin-top:7px;
+    margin-left:20px;
+    height:35px;  
+    padding:1px;
+    width:35px;
+    background:#898F9C;
+    border:1px solid #898F9C;
+    border-radius:200px;
+    z-index:+1;
+
+}
+
+.profile{
+    margin-top:-1px;
+    margin-left:-20px;
+    padding:20px;
+    font-size:14px;
+    z-index:+1;
+
+}
+
+.left-sidebar-links,.right-sidebar-links{
+    text-decoration:none;
+    color:black;
+}
+
+.left-sidebar-links{
+    font-size:16px;
+}
+
+.nav-bar-right-icons{
+    display: flex;
+    gap:1px;
+    font-size:24px;
+    padding:7px;
+    border:1px solid #dfe3ee;
+    border-radius:200px;
+    color:black;
+    margin-top:5;
+    background:	#dfe3ee;
+    display: inline-block;
+    z-index:+1;
+
+}
+
+
+
+.right-icons-row{
+    display: flex;
+    flex-direction:row;
+    gap:12px;
+    position: relative;
+    left:180px;
+}
+
+input:focus{
+    outline:none;
+}

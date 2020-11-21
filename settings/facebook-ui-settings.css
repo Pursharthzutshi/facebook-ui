@@ -1,0 +1,168 @@
+.nav-bar-underline{
+    width:1520px;
+    background: lightgray;
+    height:1px;
+    margin-top:-20px;
+    border:1px solid #EEEEEE;
+}
+
+
+
+.settings-section{
+
+    margin-top:-340px;
+    position:;
+}
+
+
+.general-account-heading{
+    font-size:20px;
+    margin-left:430px;
+    margin-top:-45px;
+}
+
+.general-account-underline-1,.general-account-underline-2{
+    width:940px;
+    height:1px;
+    background: lightgray;
+    margin-left: 424px;
+    margin-top:-12px;
+
+}
+
+.general-account-underline-2{
+    margin-top:2   ;
+}
+
+.general-account-heading-underline-1{
+    width:940px;
+    height:1px;
+    background: lightgray;
+    margin-left: 424px;
+}
+
+.edit-settings-box,.last-edit-settings-box{
+    display: flex;
+    flex-direction: row;
+    margin-top:2px;
+    margin-left: 437px;
+}
+
+.name,.username,.contact,.ad-contact,.memorialisation-settings,.identity-confirmation{
+    font-size:14px;
+    margin-top:9px;
+}
+
+.name-heading,.username-heading,.contact-heading,.ad-contact-heading,.memorialisation-heading,.identity-heading{
+    margin-top:10px;
+    margin-left:4px;
+}
+
+.identity-heading{
+    margin-left: -2px;
+    margin-top:2px;
+}
+
+.name{
+    margin-left:145px;
+    margin-top:10px;
+}
+
+
+.username{
+    margin-left:115px;  
+    margin-top:12px;
+}
+
+.contact{
+    margin-left:135px;    
+}
+
+
+.ad-contact{
+    margin-left:55px;    
+    margin-top:11px;
+}
+
+.memorialisation-settings{
+    margin-left:20px;
+    margin-top:11px;
+}
+
+
+.identity-confirmation{
+    margin-left:44px; 
+    margin-top: 2px;
+
+
+}
+
+.edit-1,.edit-2,.edit-3,.edit-4,.edit-5,.edit-6{
+    text-decoration: none;
+    font-size:15px;
+    color:#1c74f4;
+}
+
+.edit-1,.edit-2,.edit-3,.edit-4,.edit-5,.edit-6{
+    margin-top:10px;
+}
+
+.edit-1{
+
+    margin-left:623px;
+}
+
+.edit-2{
+    margin-left:413px;
+}
+
+.edit-3{
+
+    margin-left:457px;
+}
+
+.edit-4{
+
+    margin-left:548px;
+}
+
+.edit-5{
+
+    margin-left:328px;
+}
+
+.edit-6{
+
+    margin-left:272px;
+    margin-top:2px;
+}
+
+.edit-settings-box,.last-edit-settings-box{
+    background: transparent;
+    margin-top:-14px;
+    height:35px;
+    width:914px;
+    padding:5px;
+}
+
+.last-edit-settings-box{
+    padding:12px;
+}
+
+.edit-settings-box:hover,.last-edit-settings-box:hover{
+    background: #ececec;
+    margin-top:px;
+    height:35px;
+    width:914px;
+    padding:5px;
+    cursor: pointer;
+}
+
+.last-edit-settings-box:hover{
+    padding:12px;
+}
+
+
+.edit-1:hover,.edit-2:hover,.edit-3:hover,.edit-4:hover,.edit-5:hover,.edit-6:hover{
+    text-decoration: underline;
+}

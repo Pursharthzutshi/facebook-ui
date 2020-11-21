@@ -1,0 +1,155 @@
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1588px;
+}
+
+
+.settings-section{
+
+    margin-top:25px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-202px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.location-settings-heading{
+    font-size:20px;
+    margin-left:450px;
+    margin-top:27px;
+}
+
+
+.top-notice-box{
+    margin-left:450px;
+    margin-top:2px;
+    padding:10px;
+    width:920px;
+    height:77px;
+    border:1px solid lightgray;
+    border-radius:5px;
+    background: white;
+}
+
+.view-location-icon{
+    position: absolute;
+    top:142px;
+    margin-left:-152px;
+    font-size:22px;
+    text-decoration: none;
+    color:#4b4f58;
+}
+
+.view-location-link{
+    margin-left:23px;
+    font-size:13px;
+    text-decoration: none;
+    color:#4b4f58;
+    font-family: 'Roboto';
+
+}
+
+.learn-more-link{
+    text-decoration: none;
+    color:#1c74f4;
+}
+
+.learn-more-link:hover{
+    text-decoration: underline;
+
+}
+
+
+.view-location-button-box{
+    border:1px solid lightgray;
+    padding:5px;
+    width:152px;
+    background: #f5f6f7;
+    margin-left:750px;
+    margin-top:-83px;
+}
+
+.view-location-button-box:hover{
+    background: whitesmoke;
+    transition: .1s;
+}
+
+.box-underline{
+    margin-left:450px;
+    width:940px;
+    height:1px;
+    background: lightgray;
+}
+
+.top-notice{
+    color:gray;
+    line-height: 20px;
+    font-size:15px;
+    margin-top:-1px;
+    margin-left:-2px;
+}
+
+.location-history-heading{
+    margin-top:13px;
+    margin-left:460px;
+    font-family: 'Roboto';
+}
+
+.location-hover-box{
+    margin-top:-45px;
+    margin-left: 653px;
+    height:40px;
+    width:730px;
+}
+
+.location-hover-box:hover{
+    background:  #ECEFF1;
+    height:40px;
+    width:730px;
+    padding:px;
+    cursor: pointer;
+}
+
+.location-history{
+    color:gray;
+    position: absolute;
+    top:268px;
+    font-size:15px;
+    margin-left:15px;
+    margin-top:-35px;
+}
+
+.on{
+    font-family: 'Roboto';
+    margin-left:520px;
+    position: absolute;
+    top:217px;
+}
+
+.edit-link{
+    color:#1c74f4;
+    text-decoration: none;
+    position: absolute;
+    left:1330px;
+    top:232px;
+}
+
+.edit-link:hover{
+    cursor: pointer;
+    text-decoration: underline;
+
+}
+
+.location-history-underline{
+    margin-top:-8px;
+    margin-left:450px;
+    width:940px;
+    height: 1px;
+    background: lightgray;
+}

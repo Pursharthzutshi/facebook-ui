@@ -1,0 +1,120 @@
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1182px;
+}
+
+
+.settings-section{
+
+    margin-top:-5px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-182px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.face-recognition-heading{
+    font-size:20px;
+    margin-left: 420px;
+    margin-top: 25px;
+}
+
+.face-recognition-notice{
+ font-family: 'Roboto';
+    margin-left: 420px;
+}
+
+
+.face-recognition-notice-link:hover{
+ text-decoration: underline;
+}
+
+.face-recognition-para-heading{
+    margin-left:430px;
+    font-family: 'Roboto';
+}
+
+.face-recognition-notice-link{
+    text-decoration: none;
+    color:#385898;
+    font-family: 'Roboto';
+}
+
+
+
+.face-recognition-underline-1,.face-recognition-underline-2{
+    width:880px;
+    height:1px;
+    background: lightgray;
+    margin-left:420px;
+    margin-top:2px;
+}
+
+.face-recognition-underline-2{
+    margin-top:12px;
+}
+
+.hover-box{
+    margin-left:570px;
+    padding:1px;
+    height:50px;
+    width:720px;
+    margin-top:-46px;
+}
+
+.hover-box:hover{
+    cursor: pointer;
+    background: #ECEFF1;    
+    transition: .2s;
+    opacity: 90%;
+}
+
+.face-recognition-para-heading{
+    margin-top:19px;
+
+}
+
+
+.face-recognition-para{
+    position: absolute;
+    top:222px;
+    left:430px;
+
+}
+
+.face-recognition-para{
+    margin-left:160px;
+    margin-top:-34px;
+    font-size:14px;
+    color:gray;
+    font-family: 'Roboto';
+
+}
+
+.yes{
+    margin-left:480px;
+    margin-top:7px;
+    color:#65676b;
+    font-family:'Roboto';
+}
+
+
+.edit-link{
+    margin-left:677px;
+    position: absolute;
+    top:188px;
+    text-decoration: none;
+    color:#1b74f4;
+}
+
+.edit-link:hover{
+
+    text-decoration:underline;
+}
+

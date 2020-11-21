@@ -1,0 +1,397 @@
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1588px;
+}
+
+
+.settings-section{
+
+    margin-top:px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-589px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.privacy-underline-2{
+    margin-top:12px;
+    width:;
+}
+
+
+.your-activity-underline-1{
+    margin-top:6px;
+    width:765px;
+}
+
+
+.edit-link-1{
+    text-decoration: none;
+    position: absolute;
+    left:1318px;
+    top:364px;
+    color:#1c74f4;
+}
+
+.profile-and-tagging-heading{
+    margin-left:420px;
+    font-size:20px;
+    font-family: 'Roboto';
+}
+
+.viewing-first-line{
+    margin-left:415px;
+    width:930px;
+    height:1px;
+    background: lightgray;
+}
+
+.viewing-heading,.tagging-heading,.reviewing-heading{
+    font-family:'Roboto';
+    font-size:px;
+    margin-top:20px;
+    margin-left:420px;
+}
+
+.tagging-heading{
+    margin-top:px;
+}
+
+.viewing-hover-box{
+    margin-left:596px;
+    margin-top:-46px;
+    padding:2px;
+    width:736px;
+    height:42px;
+}
+
+.viewing-hover-box-2{
+    margin-left:596px;
+
+}
+
+
+.viewing-hover-box-3{
+    margin-left:600px;
+
+}
+
+
+.viewing-hover-box-4{
+    margin-left:600px;
+
+}
+
+.tagging-hover-box{
+    margin-left:596px;
+    margin-top:-52px;
+
+    padding:2px;
+    width:736px;
+    height:42px;
+
+}
+
+
+.tagging-hover-box-2{
+    margin-left:595px;
+    margin-top:5px;
+    width:736px;
+    height:42px;
+    padding:6px;
+}
+
+.reviewing-hover-box{
+    margin-left:615px;
+    margin-top:-50px;
+    padding:2px;
+    width:730px;
+    height:42px;
+    padding:6px;
+}
+
+.reviewing-hover-box-2{
+    margin-left:615px;
+    margin-top:6px;
+    width:736px;
+    height:42px;
+    padding:6px;
+}
+
+.reviewing-hover-box-3{
+    margin-left:610px;
+    margin-top:6px;
+    width:736px;
+    height:42px;
+    padding:6px;
+}
+
+
+.viewing-hover-box:hover,.viewing-hover-box-2:hover,.viewing-hover-box-3:hover,.viewing-hover-box-4:hover,.tagging-hover-box:hover,.tagging-hover-box-2:hover,.reviewing-hover-box:hover,.reviewing-hover-box-2:hover,.reviewing-hover-box-3:hover{
+
+    padding:2px;
+    width:736px;
+    height:42px;
+    cursor: pointer;
+    background: #ECEFF1;
+    opacity:90%;
+}
+
+
+
+.viewing-hover-box-1,.viewing-hover-box-2,.viewing-hover-box-3,.viewing-hover-box-4{
+    margin-top:5px;
+    padding:2px;
+    width:736px;
+    height:42px;
+
+}
+
+.reviewing-hover-box:hover,.reviewing-hover-box-2:hover,.reviewing-hover-box-3:hover{
+    padding:6px;
+    width:716px;
+}
+
+.viewing-para-1,.viewing-para-2,.viewing-para-3,.viewing-para-4,.tagging-hover-box,.tagging-hover-box-2,.reviewing-hover-box,.reviewing-hover-box-2,.reviewing-hover-box-3{
+    color:gray;
+    font-size:14px;
+    font-family:;
+}
+
+.tagging-hover-box{
+
+}
+
+.tagging-hover-box-2:hover{
+    padding:6px;
+}
+
+.privacy-shortcuts-para-3{
+    margin-top:-1px;
+    margin-left:7px;
+}
+
+.viewing-para-1{
+
+    margin-left:16px;
+    margin-top:13px;
+}
+
+.viewing-para-2{
+
+    margin-left: 15px;
+    margin-top:14px;
+}
+
+
+.viewing-para-3{
+
+    margin-left: 12px;
+    margin-top:13px;
+}
+
+
+.viewing-para-4{
+
+    margin-left: 14px;
+    margin-top:13px;
+}
+
+.tagging-para-1{
+
+    margin-left:16px;
+    margin-top:13px;
+}
+
+.tagging-para-2{
+
+    margin-left: 15px;
+    margin-top:5px;
+}
+
+.reviewing-para-1{
+    margin-top:6px;
+    margin-left:8px;
+}
+
+.reviewing-para-3{
+    margin-top:5px;
+    margin-left:7px;
+}
+
+.only-me{
+    margin-left:467px;
+    margin-top:-34px;
+}
+
+.Friends-of-friends{
+    margin-left:470px;
+    margin-top:-34px;
+}
+
+
+.on{
+    margin-left:470px;
+    margin-top:-34px;
+}
+
+.off{
+    margin-left:472px;
+    margin-top:-32px;
+}
+
+.reviewing-off-1{
+    margin-left:455px;
+    margin-top:-47px;
+}
+
+
+.reviewing-off-2{
+    margin-left:462px;
+    margin-top:-47px;
+}
+
+
+.tagging-Friends-of-friends{
+    margin-left:473px;
+    margin-top:-34px;
+}
+
+.friends{
+    margin-left:473px;
+    margin-top:-49px;
+}
+
+.only-me,.Friends-of-friends,.on,.off,.tagging-Friends-of-friends,.friends,.reviewing-off-1,.reviewing-off-2{
+    font-family: 'Roboto';
+    color:#65676b;
+}
+
+.privacy-shortcuts-underline-1,.your-activity-underline-1,.your-contact-underline-1,.your-contact-second-underline,.reviewing-underline-1{
+    height:1px;
+    width:765px;
+    background: lightgray;
+    margin-top:12px;
+    margin-left:595px;
+}
+
+.reviewing-underline-1{
+    margin-top:6;
+}
+
+.your-activity-underline-1{
+    margin-top:6px;
+    width:765px;
+}
+
+
+.viewing-underline-1,.viewing-underline-2,.tagging-underline-1{
+    height:1px;
+    width:745px;
+    background: whitesmoke;
+    margin-left:595px;
+    margin-top:3px;
+}
+
+.last-viewing-underline{
+    height:1px;
+    width:745px;
+    background: #757575;
+    margin-left:595px;
+    margin-top:3px;
+}
+
+.last-tagging-underline{
+    background: whitesmoke;
+    height:1px;
+    width:745px;
+    margin-left:595px;
+    margin-top:3px;
+}
+
+.last-reviewing-underline{
+    height:1px;
+    width:745px;
+    background: #757575;
+    margin-left:595px;
+    margin-top:3px;
+}
+
+.viewing-underline-1{
+    margin-top:7px;  
+}
+
+.last-viewing-underline,.last-tagging-underline{
+    margin-top:-12px;
+    margin-left: 420px;
+    width:930px;
+    background:#757575;
+
+
+}
+
+.viewing-edit-link-1,.viewing-edit-link-2,.viewing-edit-link-3,.viewing-edit-link-4,.tagging-edit-link-1,.tagging-edit-link-2,.reviewing-edit-link-1,.view-as,.reviewing-edit-link-2{
+    position:absolute;
+    left:1290px;
+    text-decoration: none;
+    font-size:15px;
+    color:#1c74f4;
+}
+
+.viewing-edit-link-1:hover,.viewing-edit-link-2:hover,.viewing-edit-link-3:hover,.viewing-edit-link-4:hover,.tagging-edit-link-1:hover,.tagging-edit-link-2:hover,.reviewing-edit-link-1:hover,.view-as:hover,.reviewing-edit-link-2:hover{
+    text-decoration:underline;
+}
+
+
+.viewing-edit-link-1{
+
+    top:128px;
+}
+
+.viewing-edit-link-2{
+
+    top:188px;
+}
+
+.viewing-edit-link-3{
+
+    top:246px;
+}
+
+.viewing-edit-link-4{
+
+    top:308px;
+}
+
+.tagging-edit-link-1{
+    top:363px;
+}
+
+.tagging-edit-link-2{
+    top:416px;
+
+}
+
+
+.reviewing-edit-link-1{
+
+    top:488px;
+}
+
+
+.view-as{
+    left:1275px;
+    top:557px;
+}
+
+
+.reviewing-edit-link-2{
+
+    top:625px;
+}

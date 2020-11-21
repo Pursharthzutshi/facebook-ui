@@ -1,0 +1,365 @@
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1588px;
+}
+
+
+.settings-section{
+
+    margin-top:5px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-932px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+
+.privacy-heading{
+    font-size:19px;
+    margin-left:422px;
+    margin-top: 18px;
+}
+
+.privacy-underline-1,.privacy-underline-2,.last-activity-underline,.last-contact-underline{
+    height:1px;
+    width:940px;
+    background: #9E9E9E;
+    margin-left:415px;
+}
+
+.last-activity-underline{
+    margin-top:-11px;
+}
+
+.privacy-underline-2{
+    margin-top:12px;
+    width:;
+}
+
+.privacy-shortcuts-heading,.your-activity-heading,.contact-you-heading{
+    margin-left:433px;
+    margin-top:px;
+    font-family: 'Roboto';
+}
+
+.privacy-shortcuts-para-1,.privacy-shortcuts-para-2,.activity-para-1,.activity-para-2,.activity-para-3,.activity-para-4,.contact-para-1,.contact-para-2,.contact-para-3,.contact-para-4,.contact-para-5{
+    margin-top:3px;
+    margin-left:7px;
+    font-size:15px;
+}
+
+.activity-para-1,.activity-para-2,.activity-para-3,.activity-para-4,.contact-para-1,.contact-para-2,.contact-para-3,.contact-para-4,.contact-para-5{
+    color:gray;
+}
+
+.privacy-shortcuts-para-3{
+    margin-top:-1px;
+    margin-left:7px;
+}
+
+.activity-para-1{
+
+    margin-left: 12px;
+    margin-top:12px;
+}
+
+.activity-para-2{
+
+    margin-left: 12px;
+    margin-top:10px;
+}
+
+
+.activity-para-3{
+
+    margin-left: 10px;
+    margin-top:px;
+}
+
+
+.activity-para-4{
+
+    margin-left: 12px;
+    margin-top:12px;
+}
+
+.contact-para-2{
+
+    margin-top:2px;
+}
+
+.contact-para-3{
+    margin-top:-1px;
+    margin-left:12px;
+}
+
+
+.privacy-hover-box,.privacy-hover-box-2,.privacy-hover-box-3,.activity-hover-box-1,.activity-hover-box-2,.activity-hover-box-3,.activity-hover-box-4,.contact-hover-box,.contact-hover-box-2,.contact-hover-box-3,.contact-hover-box-4,.contact-hover-box-5{
+    margin-left:600px;
+    margin-top:-45px;
+    padding:10px;
+    width:730px;
+    height:37px;
+}
+
+
+.privacy-hover-box-2{
+    margin-top:10px;
+}
+
+.privacy-hover-box-3{
+    margin-top: 10px
+}
+
+.activity-hover-box{
+    margin-left:596px;
+    margin-top:-46px;
+    padding:3px;
+    width:743px;
+    height:40px;
+}
+
+.activity-hover-box-2{
+    margin-left:596px;
+    margin-top:7px;
+    padding:5px;
+    width:743px;
+    height:40px;
+}
+
+
+.activity-hover-box-3{
+    margin-left:600px;
+    margin-top:5px;
+    padding:5px;
+    width:743px;
+    height:44px;
+}
+
+.activity-hover-box-4{
+    margin-left:596px;
+    margin-top:6px;
+    padding:3px;
+    width:743px;
+    height:40px;
+}
+
+
+
+.contact-hover-box-2{
+  
+}
+
+
+
+.privacy-hover-box:hover,.privacy-hover-box-2:hover,.privacy-hover-box-3:hover,.activity-hover-box:hover,.activity-hover-box-2:hover,.activity-hover-box-3:hover,.activity-hover-box-4:hover,.contact-hover-box:hover,.contact-hover-box-2:hover,.contact-hover-box-3:hover,.contact-hover-box-4:hover,.contact-hover-box-5:hover{
+
+    cursor:pointer;
+    background: #ECEFF1;
+    opacity: 90%;
+
+}
+
+.activity-hover-box:hover{
+    width:753px;
+    height:40px;
+}
+
+.activity-hover-box-2:hover{
+    width:753px;
+    height:40px;
+    padding:5px;
+}
+
+.activity-hover-box-3:hover{
+    width:750px;
+    height:44px;
+    padding:5px;
+    
+}
+
+.activity-hover-box-4:hover{
+    width:753px;
+    height:40px;
+}
+
+.contact-hover-box:hover{
+    margin-top: -64px;
+     height:26px;
+}
+
+.contact-hover-box-3:hover{
+    margin-top:7px;
+       height:26px;
+}
+
+.contact-hover-box-4:hover{
+    margin-top:8px;
+       height:26px;
+}
+
+
+.contact-hover-box{
+    margin-top: -64px;
+     height:26px;
+}
+
+.contact-hover-box-2{
+    margin-top:-13px;
+      height:105px;
+}
+
+.contact-hover-box-3{
+    margin-top:7px;
+       height:26px;
+}
+
+.contact-hover-box-4{
+    margin-top:8px;
+       height:26px;
+}
+
+.contact-hover-box-5{
+    margin-top:6px;
+}
+
+
+.public,.only-me,.contact-part-only-me,.friends,.everyone-2,.yes{
+    margin-left:520px;
+    margin-top:-33px;
+    font-family: 'Roboto';
+    color:#1c74f4;
+}
+
+.only-me{
+    margin-top:-33px;
+}
+
+.everyone-1{
+    margin-top: -38px;
+    margin-left: 505px;
+    font-family: 'Roboto';
+    color:#1c74f4;
+}
+
+.contact-part-only-me{
+    margin-left:508px;
+    color:#1c74f4;
+}
+
+.friends{
+    
+}
+
+.contact-para-2-description{
+    font-size:11px;
+    color:gray;
+    position:absolute;
+    top:690px;
+    left:617px;
+    line-height: 16px;
+}
+
+.privacy-shortcuts-description-1,.privacy-shortcuts-description-2,.privacy-shortcuts-description-3{
+    margin-top:-13px;
+    margin-left:8px;
+    font-size:12px;
+    color:gray;
+}
+
+.privacy-shortcuts-underline-1,.your-activity-underline-1,.your-contact-underline-1,.your-contact-second-underline{
+    height:1px;
+    width:765px;
+    background: lightgray;
+    margin-top:12px;
+    margin-left:595px;
+}
+
+.your-activity-underline-1{
+    margin-top:6px;
+    width:765px;
+}
+
+.your-contact-second-underline{
+    margin-top:-12px;
+}
+
+.edit-link-1{
+    text-decoration: none;
+    position: absolute;
+    left:1318px;
+    top:364px;
+    color:#1c74f4;
+}
+
+.activity-log-link{
+    text-decoration: none;
+    position: absolute;
+    left:1242px;
+    top:420px;
+    color:#1c74f4;
+}
+
+.past-post-link{
+    text-decoration: none;
+    position: absolute;
+    left:1232px;
+    top:480px;
+    color:#1c74f4;
+}
+
+.edit-link-2{
+    text-decoration: none;
+    position: absolute;
+    left:1318px;
+    top:550px;
+    color:#1c74f4;
+}
+
+
+.contact-edit-link-1,.contact-edit-link-2,.contact-edit-link-3,.contact-edit-link-4,.contact-edit-link-5{
+    text-decoration: none;
+    position: absolute;
+    left:1318px;
+    color:#1c74f4;
+    
+}
+
+.contact-edit-link-1:hover,.contact-edit-link-2:hover,.contact-edit-link-3:hover,.contact-edit-link-4:hover,.contact-edit-link-5:hover{
+    color:;
+}
+
+.contact-edit-link-1{
+    position: absolute;
+    top:605px;
+}
+
+
+.contact-edit-link-2{
+    position: absolute;
+    top:675px;
+}
+
+
+.contact-edit-link-3{
+    position: absolute;
+    top:810px;
+}
+
+
+.contact-edit-link-4{
+    position: absolute;
+    top:880px;
+}
+
+
+.contact-edit-link-5{
+    position: absolute;
+    top:945px;
+}

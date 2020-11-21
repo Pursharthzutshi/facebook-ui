@@ -1,0 +1,547 @@
+body{
+    margin: 0;
+    background: #f2f2f2;
+    font-family: 'arial';
+}
+
+.left-sidebar-section{
+    position: fixed;
+    margin-top:-838px;
+}
+
+.left-sidebar-div{
+
+    height:720px;
+    width:50px;
+    background: white;
+    padding:2px;
+    border-right:1px solid #E0E0E0;
+}
+
+.left-sidebar-div:hover{
+    width:320px;
+    height:720px;
+    margin-top:px;
+ 
+}
+
+.left-sidebar-section:hover{
+    width:320px;
+    height:20px;
+    z-index: 1;
+    margin-top:-842px;
+    transition: 3s;
+}
+
+.icons-column-1{
+    display: flex;
+    flex-direction:column;
+    margin-left:12px;
+    margin-top:6px;
+}
+
+.icons-column-2{
+    display: flex;
+    flex-direction:column;
+    margin-left:12px;
+    margin-top:47px;
+}
+
+.icons-column-3{
+    display: flex;
+    flex-direction:column;
+    margin-left:13px;
+    margin-top:122px;
+}
+
+.icons-1,.icons-2,.icons-3{
+    margin-top:5px;
+    margin-left:-5px;
+    padding:5px;
+}
+
+
+
+.icons-1{
+    font-size:24px;
+    color:#212121;
+}
+
+.icons-2{
+
+    font-size:28px;
+    color:#212121;
+
+}
+
+.icons-3{
+
+    font-size:23px;
+    color:#455A64
+        ;
+
+}
+
+
+.icons-1:hover,.icons-2:hover,.icons-3:hover{
+    background:#F5F5F5;
+    cursor:pointer;
+    padding:5px;
+    border-radius:5px;
+}
+
+.profile-pic{
+    width:30px;
+    height:30px;
+    border-radius:200px;
+    margin-top:15px;
+    margin-left:-2px;
+}
+
+.left-sidebar-short-bar{
+    width:22px;
+    height:2px;
+    background: lightgray;
+    position: absolute;
+    top:502px;
+    left:17px;
+}
+
+.payment-settings-heading{
+    margin-left:25px;
+    margin-top:27px;
+    font-size:20px;
+}
+
+.front-page-section{
+    margin-top:50px;
+}
+
+.payment-box-1{
+    margin-left:500px;
+    width:600px;
+    height:190px;
+    background: white;
+    box-shadow:2px 2px 1px lightgray;
+    border-radius:8px;
+    position: relative;
+}
+
+.next-bill,.payment-methods,.spending-limit-heading,.billing-heading{
+    position: absolute;
+    top:4px;
+    left:13px;
+    font-size:15px;
+    font-family:'roboto';
+}
+
+.manage-link,.settle-account-link,.spending-limit-link,.view-receipts-link{
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    border:1px solid #ebebeb;
+    background: #ebebeb;
+    border-radius:4px;
+    padding-left: 10px;
+    opacity: 90%;
+    font-size:15px;
+}
+
+.manage-link{
+    top:15px;
+    left:515px; 
+    padding:7px;
+    width:56px;
+    height:18px;
+
+}
+
+.payment-box-1-underline,.payment-box-2-underline{
+    width:600px;
+    height:1px;
+    background: lightgray;
+    position: absolute;
+    top:62px;
+}
+
+.smaller-payment-box-1{
+    width:350px;
+    height:75px;
+    background: #f5f7f8;
+    position: absolute;
+    top:90px;
+    left:20px;
+    padding-left:20px;
+}
+
+.date-of-payment{
+    border:1px solid transparent;
+    border-radius:5px;
+    font-size:20px;
+    margin-top:13px;
+}
+
+.balance{
+    margin-top:-15px;
+    font-size:13px;
+}
+
+.dollar-sign{
+    position: absolute;
+    left:430px;
+    top:-10px;
+    font-size:22px;
+    font-family: 'ROboto';
+}
+
+.price{
+    position: absolute;
+    left:450px;
+    top:-10px;
+    font-size:22px;
+    font-family: 'Roboto';
+}
+
+.amount{
+    position: absolute;
+    left:423px;
+    top:25px;
+    font-size:14px;
+
+}
+
+
+.due{
+    position: absolute;
+    left:478px;
+    top:25px;
+    font-size:14px;
+
+}
+
+.payment-box-2{
+    margin-top:10px; 
+    margin-left:500px;
+    width:600px;
+    height:270px;
+    background: white;
+    box-shadow:2px 2px 1px lightgray;
+    border-radius:8px;
+    position: relative;
+}
+
+.settle-account-link{
+    white-space: nowrap;
+    top:15px;
+    left:470px; 
+    padding:8px;
+    padding-left:12px;
+    width:96px;
+    height:18px;
+
+}
+
+.payment-details{
+    position: absolute;
+    top:63px;
+    left:35px;
+    font-size:15px;
+    font-family:'Roboto';
+    opacity: 60%;
+}
+
+.payment-box-2-underline-2{
+
+    width:530px;
+    height:1px;
+    background: lightgray;
+    position: absolute;
+    top:106px;
+    left:34px;
+
+}
+
+.card-photo,.expiry-date,.card-name,.card-verfication{
+    position: absolute;  
+    opacity: 60%;
+    font-size:11px;
+}
+
+.card-photo{
+    position: absolute;
+    top:140px;
+    left:40px;
+    opacity: 60%;
+}
+
+.card-name{
+    position: absolute;
+    top:118px;
+    left:104px;
+    font-family: 'Roboto';
+    font-size:15px;
+
+}
+
+.expiry-date{
+    font-size:11px;
+    left:104px;
+    top:142px;
+
+
+}
+
+.card-verfication{
+    top:157px;
+    left:104px;
+
+}
+
+.primary{
+    font-size: 15px;
+    position: absolute;
+    left:190px;
+    top:117px;
+    color:#1c74f4;
+    opacity: 60%;
+    font-family:'Roboto';
+}
+
+.verify-link{
+    white-space: nowrap;
+    top:15px;
+    left:470px; 
+    padding:8px;
+    padding-left:12px;
+    width:96px;
+    height:18px;
+}
+
+.remove-link{
+    white-space: nowrap;
+    top:137px;
+    left:470px; 
+    padding:10px;
+    padding-left:13px;
+    width:53px;
+    height:15px;
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    border:1px solid #ebebeb;
+    background: #ebebeb;
+    border-radius:4px;
+    padding-left: 13px;
+    font-size:14px;
+}
+
+.verify-link{
+    white-space: nowrap;
+    top:137px;
+    left:396px; 
+    padding:10px;
+    padding-left:13px;
+    width:40px;
+    height:15px;
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    border:1px solid #ebebeb;
+    background: #ebebeb;
+    border-radius:4px;
+    padding-left: 13px;
+    font-size:14px;
+}
+
+.see-more-link{
+    text-decoration: none;
+    color:;
+    position: absolute;
+    top:218px;
+    left:40px;
+    font-family: 'Roboto';
+    color:#1461cc;
+}
+
+.bottom-bar-section{
+}
+
+.top-bar-div{
+    position: fixed;
+    background:#f2f2f2;
+    width:1463px;
+    height:58px; 
+    margin-top:-60px;
+    margin-left:55px;
+    z-index: 1;
+}
+
+.account-id{
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    top:22px;
+    left:1170px;
+    border:1px solid #d1d1d1;
+    padding:8px;
+    padding-left:12px;
+    padding-right:65px;
+    border-radius:8px;;
+    background:white ;
+    word-spacing: px;
+    font-size:14px;
+    cursor: default;
+}
+
+.account-id-icon{
+    position: absolute;
+    left:1430px;
+    top:32px;
+    font-size:14px;
+    color:#444950;
+    opacity:75% ;
+
+}
+
+.bottom-bar-div{
+    position: fixed;
+    background:#f2f2f2;
+    width:1467px;
+    height:47px;
+    margin-top:17px;
+    margin-left:55px;
+    z-index: ;
+
+}
+
+
+.payment-box-3{
+    margin-left:500px;
+    margin-top:13px;
+    width:600px;
+    height:195px;
+    background: white;
+    box-shadow:2px 2px 1px lightgray;
+    border-radius:8px;
+    position: relative;
+}
+
+
+.spending-limit-heading{
+    margin-left:3px;
+    margin-top:16px;
+
+}
+
+.payment-box-3-underline{
+    width:600px;
+    height:1px;
+    background: lightgray;
+    position: absolute;
+    top:52px;
+}
+
+.spending-limit-para{
+    line-height:20px;
+    color:black;
+    opacity: 95%;
+    padding:17px;
+    font-size:14px;
+    position: absolute;
+    top:37px;
+    font-family:arial;
+    left:13px;
+}
+
+.learn-more{
+    font-size:14px;
+    text-decoration: none;
+    color:#216fdb;
+}
+
+.amount-spent{
+    font-size:14px;
+    position: absolute;
+    top:667px;
+    left:530px;
+}
+
+.amount-in-rs{
+    font-size:14px;
+    position: absolute;
+    left:623px;
+    top:666px;
+    font-family: 'Roboto';
+}
+
+.spending-limit-link{
+    top:672px;
+    left:848px; 
+    padding:8px;
+    padding-left:10px;
+    width:210px;
+    height:15px;
+    white-space: nowrap;
+}
+
+.payment-box-4{
+    margin-top:14px;
+    margin-left:500px;
+    width:600px;
+    height:60px;
+    background: white;
+    box-shadow:2px 2px 1px lightgray;
+    border-radius:8px;
+    position: relative;
+    z-index:;
+}
+
+.view-receipts-link{
+    top:14px;
+    left:462px; 
+    padding:8px;
+    padding-left:10px;
+    width:95px;
+    height:15px;
+    white-space: nowrap;
+}
+
+.need-help{
+    font-size:12px;
+    position:absolute;
+    left:200px;
+    z-index: 1;
+    margin-left:790px;
+}
+
+.contact-us{
+    font-size:13px;
+    position: absolute;
+    left:65px;
+    text-decoration: none;
+    top:-1px;
+    white-space: nowrap;
+    z-index: 1;
+
+}
+
+.report-a-problem-link{
+    font-size:12px;
+    text-decoration: none;
+    color:#333333;
+    position: absolute;
+    top:727px;
+    left:1400px;
+    border:1px solid #b2b8c4;
+    border-bottom:1px solid transparent;
+    font-family:'roboto';
+    background: #b2b8c4;
+    background:#eef0f1;
+    padding:3px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:7px;
+    white-space:nowrap;
+    position: fixed;
+}
+

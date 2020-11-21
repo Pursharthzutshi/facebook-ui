@@ -1,0 +1,489 @@
+.nav-bar-underline{
+    width:1520px;
+    background: lightgray;
+    height:1px;
+    margin-top:-20px;
+    border:1px solid #EEEEEE;
+}
+
+.security-and-login-section{
+    margin-top:2px;
+}
+
+.settings-heading{
+    margin-top:-1635px;
+
+}
+.settings-section{
+    margin-top:0px;
+    position:;
+}
+
+
+.vertical-line{
+    width:1px;
+    height:1682px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1774px;
+}
+
+
+.security-and-login-heading{
+    margin-left:425px;
+    margin-top:23px;
+    font-size:20px;
+}
+
+.recommended-heading,.logged-in-heading,.login-heading,.authentication-heading,.security-heading,.advanced-heading{
+    margin-top:12;
+    margin-left:12px;
+    font-family:'Roboto';
+}
+
+.recommended-heading-box,.logged-in-heading-box,.login-heading-box,.authentication-heading-box,.security-heading-box,.advanced-heading-box{
+    border:1px solid lightgray;
+    background: #f5f6f7;
+    margin-left:430px;
+    margin-top:-8px;
+    width:945px;
+    height: 45px;
+}
+
+.recommended-heading{
+
+}
+
+.advanced-heading-box{
+    margin-top:10px;
+}
+
+.security-heading-box{
+    margin-top:12px;
+}
+
+.authentication-heading-box{
+    margin-top:10px;
+}
+
+.logged-in-heading-box{
+    margin-top:px;
+}
+
+.recommended-box{
+    height:95px;
+    width:945px;
+    margin-left:430px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+}
+
+.recommended-icon,.login-icon,.authentication-icon,.security-icon,.advanced-icon{
+    color:gray;
+    margin-left:18px;
+    margin-top:27px;
+}
+
+.login-icon{
+    margin-top:22px;
+}
+
+.recommended-para-1,.login-para-1-heading,.login-para-2-heading,.authentication-para-1-heading,.security-para-1-heading,.security-para-1-heading,.advanced-para-1-heading,.advanced-para-2-heading,.advanced-para-3-heading{
+    margin-left:50px;
+    margin-top:-34px;
+}
+
+.recommended-para-1{
+    margin-top:-27px;
+}
+
+.recommended-para-2{
+    margin-top:-2px;
+}
+
+.recommended-para-2,.login-para-1,.login-para-2,.authentication-para-1,.authentication-para-2,.authentication-para-3,.security-para-1,.security-para-2,.advanced-para-1,.advanced-para-2,.advanced-para-3{
+    color:gray;
+    font-size:15px;
+    margin-left:50px;
+    margin-top:-32px;
+}
+
+.login-para-1{
+    margin-top: -15px;
+}
+
+.login-para-2-heading{
+    margin-top:-22px;
+}
+
+.login-para-2{
+    margin-top: -34px;
+    margin-left:75px;
+}
+
+.security-para-1{
+    margin-top:-10px;
+}
+
+.security-para-2{
+    margin-top:-10px;
+}
+
+.authentication-para-1{
+    margin-top:-16px;   
+}
+
+.authentication-para-2{
+    margin-top:-15px;   
+}
+
+
+.authentication-para-3{
+    margin-top:-15px;   
+}
+
+.advanced-para-1{
+    margin-top:-12px;
+}
+
+.advanced-para-2{
+    margin-top:-14px;
+}
+
+.advanced-para-3{
+    margin-top:-12px;
+}
+
+.login-para-1-heading{
+    margin-top:-21px;
+}
+
+.authentication-para-1-heading{
+    margin-top:-28px;
+}
+
+.authentication-para-2-heading{
+    margin-top:-27px;
+    margin-left:52px;
+}
+
+.authentication-para-3-heading{
+    margin-top:-24px;
+    margin-left:52px;
+}
+
+.security-para-1-heading{
+    margin-top:-23px;
+}
+
+.security-para-2-heading{
+    margin-top:-22px;
+    margin-left:48px;
+}
+
+.advanced-para-1-heading{
+    margin-top:-20px;
+}
+
+.advanced-para-2-heading{
+    margin-top:-23px;
+}
+
+
+.advanced-para-3-heading{
+    margin-top:-23px;
+}
+
+
+.edit-link{
+    border:1px solid lightgray;
+    padding: 5px;
+    font-size:15px;
+    position: absolute;
+    left:1320px;
+    top:182px;
+    text-decoration: none;
+    width:22px;
+    color:#66667d;
+    box-shadow:1px 1px 1px lightgray;
+    background:#eff0f0;
+    
+    font-size:13px;
+    font-family:'Roboto';
+}
+
+
+
+.edit-link-2{
+    border:1px solid lightgray;
+    padding: 4px;
+    background:lightgray;
+    width:10px;
+    font-size:15px;
+    margin-left:880px;
+    margin-top:  410px;
+    text-decoration: none;
+    color:black;
+}
+
+.logged-in-box{
+    height:195px;
+    width:945px;
+    margin-left:430px;
+    margin-top:-3px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray; 
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+
+}
+
+.active-status-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:50px;
+    margin-top:-25px;
+}
+
+.device-image{
+    margin-left:12px;
+    margin-top:12px;;
+}
+
+.logged-in-device{
+    font-size:15px;
+    margin-top:-32px;
+    margin-left: 50px;
+}
+
+.web-browser{
+    color:gray;
+    font-size:15px;
+    margin-top:13px;
+}
+
+.active-status-1,.active-status-2{
+
+
+    margin-top:12px;
+    margin-left:4px;
+}
+
+.active-status-1{
+    font-family:'Roboto';
+    color:green;
+
+}
+
+.active-status-2{
+    color:gray;   
+}
+
+.logged-in-underline,.login-underline,.authentication-underline,.security-underline,.advanced-underline{
+    width:945px;
+    height:1px;
+    background: lightgray;
+    margin-top:px;
+}
+
+.advanced-underline{
+    margin-top:-px;
+}
+
+.login-underline{
+    margin-top:10px;
+}
+
+.authentication-underline{
+    margin-top:-12px;
+}
+
+.logged-in-underline-2{
+    margin-left:0px;
+}
+
+.logged-in-icon{
+    margin-left:713px;
+    color:gray;
+    font-size:20px;
+}
+
+.see-more-row{
+    display: flex;
+    flex-direction:row;
+    margin-left:16px;
+    margin-top:16px;
+    cursor:pointer;
+}
+
+.see-more-row:hover{
+    cursor:pointer;
+}
+
+.see-more-icon{
+    color:lightgray;
+    margin-top:2px;
+
+}
+
+.see-more-link{
+    text-decoration: none;
+    color:#1c74f4;
+    margin-left:6px;
+    font-family:'Roboto';
+}
+
+
+.login-heading-box{
+    margin-top:12px;
+}
+
+.login-box{
+    height:135px;
+    width:945px;
+    margin-left:430px;
+    margin-top:px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray; 
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    position: relative;
+}
+
+.login-edit-1,.login-edit-2,.authentication-edit,.authentication-view,.authentication-add,.security-edit-1,.security-edit-2,.advanced-edit-1,.advanced-edit-2,.advanced-view{
+
+    border:1px solid lightgray;
+    padding: 5px;
+    box-shadow:1px 1px 1px lightgray;
+    background:#eff0f0;
+    width:22px;
+    font-size:12px;
+    text-decoration: none;
+    color:#66667d;
+    font-family:'Roboto';
+    position: absolute;
+    left:890px;
+}
+
+.login-edit-1:hover,.login-edit-2:hover,.authentication-edit:hover,.authentication-view:hover,.authentication-add:hover,.security-edit-1:hover,.security-edit-2:hover:hover,.advanced-edit-1:hover,.advanced-edit-2:hover,.advanced-view:hover{
+
+    background: #e9eaef;
+    transition: .2s;
+}
+
+.advanced-edit-1{
+    position: absolute;
+    top:20px;
+}
+
+
+.advanced-edit-2{
+    position: absolute;
+    top:100px;
+}
+
+
+.advanced-view{
+    position: absolute;
+    top:170px;
+    width:28px;
+}
+
+
+.login-edit-1{
+    position: absolute;
+    top:25px;
+}
+
+.login-edit-2{
+    position: absolute;
+    top:90px;
+}
+
+.authentication-edit{
+    position: absolute;
+    top:20px;
+
+}
+
+.authentication-view{
+    position: absolute;
+    top:94px;
+    width:26px;
+
+}
+
+
+.authentication-add{
+    position: absolute;
+    top:165px;
+
+}
+
+.security-edit-1{
+    position: absolute;
+    top:22px;
+}
+
+
+.security-edit-2{
+    position: absolute;
+    top:102px;
+}
+
+
+.on{
+    color:#1c74f4;
+    margin-top:-13px;
+    margin-left:51px;
+    font-family:'Roboto';
+}
+
+.authentication-box{
+    height:220px;
+    width:945px;
+    margin-left:430px;
+    margin-top:px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray; 
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    position: relative;
+}
+
+.security-box{
+    height:155px;
+    width:945px;
+    margin-left:430px;
+    margin-top:px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray; 
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    position: relative;
+
+}
+
+
+.advanced-box{
+    height:225px;
+    width:945px;
+    margin-left:430px;
+    margin-top:px;
+    border-top:1px solid transparent;
+    border:1px solid lightgray; 
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    position: relative;
+
+}
+
+.bottom-page-section{
+    margin-top:0px;
+}
+
+.page-last-underline{
+    margin-top:590px;
+}

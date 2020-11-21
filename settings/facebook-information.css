@@ -1,0 +1,280 @@
+.nav-bar-underline{
+    width:1520px;
+    background: lightgray;
+    height:1px;
+    margin-top:-20px;
+    border:1px solid #EEEEEE;
+}
+
+
+.vertical-line{
+    width:1px;
+    height:1090px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1588px;
+}
+
+
+.settings-section{
+
+    margin-top:-495px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:10px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.facebook-information-heading{
+    font-size:20px;
+    margin-left:430px;
+    margin-top:-45px;
+}
+
+.top-notice-box{
+    margin-left:425px;
+    padding:10px;
+    width:920px;
+    height:30px;
+    border:1px solid lightgray;
+    border-radius:5px;
+    background: white;
+}
+
+.top-notice{
+    font-size:14px;
+    margin-top:7px;
+    margin-left:5px;
+}
+
+.facebook-information-underline-1,.facebook-information-underline-2{
+    width:940px;
+    height:1px;
+    background: lightgray;
+    margin-left: 424px;
+    margin-top:-10px;
+
+}
+
+.facebook-information-underline-2{
+    margin-top:2px;
+}
+
+.facebook-information-heading-underline-1{
+    width:940px;
+    height:1px;
+    background: lightgray;
+    margin-left: 424px;
+}
+
+.edit-settings-box,.last-edit-settings-box{
+    display: flex;
+    flex-direction: row;
+    margin-top:2px;
+    margin-left: 437px;
+}
+
+.access-information,.transfer-data,.download-information,.activity-log,.off-facebook,.managing-information,.deactivation{
+    font-size:13px;
+    margin-top:9px;
+    margin-left:27px;
+    color:gray;
+    font-family:'Roboto';
+}
+
+.access-information-heading,.transfer-data-heading,.download-information-heading,.activity-log-heading,.off-facebook-heading,.managing-information-heading,.deactivation-heading{
+    margin-top:8px;
+    margin-left:4px;
+    font-family: 'Roboto';
+
+}
+
+.off-facebook-heading{
+    margin-top:2px;
+}
+
+.transfer-data-heading{
+    padding:2px;
+    margin-top:-7px;
+    margin-left:4px;
+}
+
+.download-information-heading{
+    margin-top:-6px;
+    margin-left:7px;
+}
+
+.managing-information-heading{
+    margin-top:-7px;
+    margin-left:8px;
+}
+
+.deactivation-heading{
+    margin-top:2px;
+    margin-left:13px;
+    width:px;
+}
+
+
+.access-information{
+    padding: px;
+    margin-left:26px;
+    margin-top:px;
+}
+
+
+.transfer-data{
+    margin-left:205px;  
+    margin-top:-55px;
+    padding:2px;
+}
+
+.download-information{
+    margin-left:205px;
+    margin-top:-52px;
+}
+
+
+.activity-log{
+    margin-left:120px;    
+    margin-top:11px;
+}
+
+.off-facebook{
+    margin-left:37px;
+    margin-top:2px;
+}
+
+
+.managing-information{
+    margin-left:206px; 
+    margin-top: -52px;
+
+
+}
+
+.deactivation{
+    margin-left:16px; 
+    margin-top: 3px;
+
+
+}
+
+
+.view-1,.view-2,.view-3,.view-4,.view-5,.view-6,.view-7{
+    text-decoration: none;
+    font-size:15px;
+    color:#1c74f4;
+}
+
+.view-1,.view-2,.view-3,.view-4,.view-5,.view-6,.view-7{
+    left:1320px;
+}
+
+.view-1{
+
+    position: absolute;
+    top:188px;
+}
+
+.view-2{
+    position: absolute;
+    top:243px;
+}
+
+.view-3{
+
+    position: absolute;
+    top:317px;
+}
+
+.view-4{
+    position: absolute;
+    top:393px;
+}
+
+.view-5{
+
+    position: absolute;
+    top:450px;
+}
+
+.view-6{
+
+    position: absolute;
+    top:503px;
+}
+
+.view-7{
+    position: absolute;
+    top:568px;
+}
+
+.second-edit-settings-box,.third-edit-settings-box,.second-last-edit-settings-box{
+    background: transparent;
+    margin-top:-14px;
+    margin-left:426px;
+    height:35px;
+    width:914px;
+    padding:13px;
+}
+
+
+
+.edit-settings-box,.last-edit-settings-box{
+    background: transparent;
+    margin-top:-14px;
+    margin-left:438px;
+    height:35px;
+    width:914px;
+    padding:3px;
+}
+
+.edit-settings-box:hover{
+    padding:3px;
+    background:#ECEFF1; 
+    cursor: pointer;
+        transition: .2s;
+}
+
+.second-last-edit-settings-box:hover,.second-edit-settings-box:hover,.third-edit-settings-box:hover,.last-edit-settings-box:hover{
+    background: #ECEFF1;
+    margin-top:px;
+    margin-left:426px;
+    height:35px;
+    width:904px;
+    padding:13px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.last-edit-settings-box:hover{
+    padding:5px;
+    margin-top: 5px;
+    margin-left:426px;
+    width:924px;
+    transition: .2s;
+}
+
+.last-edit-settings-box{
+    padding:5px;
+    margin-top: 5px;
+    margin-left:426px;
+    width:924px;
+
+}
+
+.last-facebook-information-line{
+    margin-top:10px;
+    width:940px;
+    height:1px;
+    background: lightgray;
+    margin-left:423px;
+}
+
+.view-1:hover,.view-2:hover,.view-3:hover,.view-4:hover,.view-5:hover,.view-6:hover,.view-7:hover{
+    text-decoration: underline;
+}
