@@ -1,0 +1,385 @@
+.vertical-line{
+    width:1px;
+    height:1220px;
+    background: lightgray;
+    margin-left: 400px;
+    margin-top:-1312px;
+}
+
+
+
+.settings-section{
+
+    margin-top:px;
+    position:;
+}
+
+.settings-heading{
+    margin-top:-1150px;
+    margin-left:78px;
+    font-size: 24px;
+}
+
+
+.page-last-underline{
+    width:935px;
+    height:1px;
+    background: lightgray;
+    margin-left:435px;
+    margin-top:125px;
+
+}
+
+
+
+.apps-and-websites-heading{
+    font-size:20px;
+    margin-left: 420px;
+    margin-top: 27px;
+}
+
+.apps-and-websites-para{
+    color:gray;
+    line-height: 16px;
+    font-size:13px;
+    margin-left:420px;
+    margin-top:-12px;
+}
+
+.learn-more-link{
+    text-decoration: none;
+    color:#2e6fdb;
+}
+
+.learn-more-link:hover{
+    text-decoration: underline;
+}
+
+.instant-games-ul{
+    display: flex;
+    flex-direction:row;
+    margin-left:365px;
+    margin-top:2px;
+    font-size:15px;
+}
+
+.instant-games-li{
+    list-style: none;
+    margin-left:24px;   
+}
+
+.instant-games-links{
+    text-decoration: none;
+    color:gray;
+    padding:12px;
+}
+
+
+.instant-games-links:hover{
+    border-bottom:4px solid #f5f6f7;
+    padding:12px;
+}
+
+.search-icon{
+    position: absolute;
+    left:1300px;
+    top:188px;
+    font-size:18px;
+    color:gray;
+}
+
+.search-input{
+    padding:12px;
+    height:35px;
+    position: absolute;
+    left:1130px;
+    top: 180px;
+    width:200px;
+    border:1px solid lightgray;
+    border-radius:4px;
+}
+
+.apps-and-websites-underline{
+    width:908px;
+    height:1px;
+    background:lightgray;
+    margin-left:425px;
+
+}
+
+.phone-icon{
+    font-size:23px;
+    color:gray;
+    margin-top:45px;
+    margin-left:850px;
+}
+
+
+.search-input:target{
+    border:1px solid blue;
+    background: yellow;
+
+}
+
+.manage-information-para{
+    margin-left:426px;
+    margin-top:37px;
+    font-size:15px;
+    color:gray;
+}
+
+.remove-button{
+    position: absolute;
+    left:1260px;
+    top:252px;
+    text-decoration: none;
+    color:white;
+    font-size:13px;
+    font-family:'Roboto';
+    border:1px solid lightgray;
+    padding:6px;
+    background: #1c74f4;
+    padding-left:10px;
+    padding-right:10px;
+    opacity: 30%;
+}
+
+.box{
+    border:1px solid lightgray;
+    width:810px;
+    height:323px;
+    background: white;
+    margin-left:426px;
+    margin-top: 22px;
+    position: relative;
+
+
+
+}
+
+.hover-box{
+    height:80px;
+    width:800px;
+}
+
+.hover-box:hover{
+    background: #f2f2f2;
+    height:80px;
+    width:810px;
+    cursor:pointer;
+
+
+}
+
+
+.apps-or-websites-images{
+    margin-left:15px;
+    margin-top:18px;
+}
+
+.apps-or-websites-heading{
+    margin-left: 75px;
+    margin-top:-45px;
+    font-family: 'Roboto';
+}
+
+
+.apps-or-websites-text{
+    margin-left: 75px;
+    margin-top:-7px;
+    font-size:14px;
+    color:gray;
+}
+
+.view-and-edit-link-1,.view-and-edit-link-2,.view-and-edit-link-3,.view-and-edit-link-4{
+    font-size:12px;
+    text-decoration: none;
+    position: absolute;
+    left:700px;
+}
+
+.view-and-edit-link-1{
+    top:30px;
+}
+
+
+.view-and-edit-link-2{
+    top:114px;
+}
+
+
+.view-and-edit-link-3{
+    top:195px;
+}
+
+
+.view-and-edit-link-4{
+    top:275px;
+}
+
+.checkbox-div{
+    border:1px solid lightgray;
+    border-left:1px solid transparent;
+    width:48px;
+    height:18px;
+    padding:31px;
+    margin-left:790px;
+    margin-top: -81px;
+}
+
+.checkbox-div:hover{
+    background: #f2f2f2;
+    border-left: 1px solid lightgray;
+    padding: 31px;
+    cursor: pointer;
+    width:28px;
+    margin-left:810px;
+    height:18px;
+}
+
+.checkbox{
+    margin-left:27px;
+}
+.checkbox:hover{
+    padding-left:38px;
+}
+
+.box-underline{
+    margin-top:px;
+    width:790px;
+    height:1px;
+    background: lightgray;
+}
+
+.prefernces-heading{
+    font-size:14px;
+    margin-top:32px;
+    margin-left: 427px;
+
+}
+
+.cards-1,.cards-2,.cards-3{
+    margin-left:427px;
+    margin-top:16px;
+    background: #f4f4f4;
+    width:448px;
+    height:260px;
+}
+
+.cards-1{
+    margin-top:8px;
+}
+
+.cards-2{
+    margin-top:8px;
+}
+
+
+.cards-3{
+    margin-top:8px;
+}
+
+.cards-4{
+
+    opacity: 56%;
+    border-style:dotted;
+    border-color:gray;
+    margin-left:427px;
+    margin-top:8px;
+    background: #f4f4f4;
+    width:443px;
+    height:254px;
+
+}
+
+.cards-4-heading{
+    color: black;
+    margin-left:138px;
+    margin-top:-19px;
+    font-size: 14px;
+}
+
+
+.cards-1-heading,.cards-2-heading,.cards-3-heading{
+    font-size: 14px;
+    margin-left:155px;
+    margin-top:-19px;
+
+}
+
+.cards-3-heading{
+    margin-left:130px;
+}
+
+.cards-1-heading-para,.cards-2-heading-para,.cards-3-heading-para,.cards-4-heading-para,.cards-4-heading-para-2{
+    color:#69707f;
+    line-height: 16px;
+    font-size: 14px;
+    margin-left:5px;
+    margin-top:39px;
+    white-space: nowrap;
+    text-align: center;
+
+
+
+}
+
+.cards-1-icon,.cards-2-icon,.cards-3-icon,.cards-4-icon{
+    color:#69707f;
+    font-size:22px;
+    margin-top:30px;
+    margin-left:123px;
+
+}
+
+.cards-3-icon{
+    margin-left:100px;
+}
+
+.cards-4-icon{
+    margin-left: 110px;
+}
+.cards-1-heading-para,.cards-2-heading-para,.cards-3-heading-para,.cards-4-heading-para,.cards-4-heading-para-2,.turned-on,.edit-link{
+    font-size:12px;
+    color:gray;
+}
+
+.cards-4-heading-para-2{
+    margin-top:25px;
+
+}
+
+.turned-on{
+    text-align: center;
+    margin-top:22px;
+}
+
+.edit-link{
+    font-family: 'Roboto';
+    text-decoration: none;
+    border:1px solid lightgray;
+    padding:5px;
+    padding-left:12px;
+    padding-right: 12px;
+    height:2px;
+    margin-left:212px;
+    margin-top:2px;
+    color:black;
+
+}
+
+.first-cards-row{
+    display:flex;
+    flex-direction: column;
+    margin-top:20px;
+    margin-left:;
+
+}
+
+.second-cards-row{
+    display: flex;
+    flex-direction: column;
+    margin-left:455px;
+    margin-top:-536px;
+}
+
