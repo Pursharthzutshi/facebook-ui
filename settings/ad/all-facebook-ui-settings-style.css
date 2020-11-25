@@ -1,0 +1,126 @@
+
+.settings-heading{
+
+    margin-left:78px;
+    font-size: 24px;
+}
+
+.settings-links{
+
+    margin-top:;
+    padding:5px;
+    margin-left:4px;
+    position: absolute;
+    text-decoration: none;
+    color:black;
+    font-size:17px;
+    font-family:'Roboto';
+}
+
+.settings-hover-box{
+    padding:5px;
+    display: block;
+    background: transparent;
+     border:1px solid  transparent;
+    cursor: pointer;
+    width:300px;
+    margin-left:70px;
+  text-align:;
+
+}
+
+.settings-hover-box:hover{
+    padding:5px;
+    display: block;
+    background:  #ececec;
+    border:1px solid  #ececec;
+    border-radius:8px;
+    cursor: pointer;
+
+}
+
+.settings-icons{
+    margin-left:px;
+    margin-top:1px;
+    padding:5px;
+    font-size:20px;
+    color:#d3e0e6;
+}
+
+.settings-underline-1,.settings-underline-2,.settings-underline-3{
+    width:280px;
+    height:1px;
+    background: lightgray;
+    margin-left:100px;
+}
+
+
+
+.page-last-underline{
+    width:935px;
+    height:1px;
+    background: lightgray;
+    margin-left:435px;
+
+}
+
+.bottom-links-row{
+    display: flex;
+    flex-direction: row;
+    margin-top:15px;
+    margin-left:422px;
+
+}
+
+.bottom-links,.bottom-language-links{
+    color:;
+    text-decoration: none;
+    font-size:12px;
+    margin-left:20px;
+}
+
+.bottom-language-links{
+    margin-left: 14px;
+}
+
+.bottom-links:hover,.bottom-language-links:hover{
+
+    text-decoration: underline;
+
+}
+
+.facebook-2020,.english-uk{
+    font-size:11px;
+    color:gray;
+    margin-left:442px;
+    margin-top:23px;
+}
+
+.english-uk{
+    color:#E0E0E0;
+    margin-top: -5px;
+}
+
+.bottom-language-links-row{
+    display: flex;
+    flex-direction: row;
+    font-size:12px;
+    margin-left:512px;
+    margin-top: -25px;
+}
+
+.add-language-box{
+    margin-top:-12px;
+}
+
+.add-language-icon{
+    cursor:pointer;
+    margin-left:8px;
+    font-family: 'sans-serif';
+    font-weight: bold;
+    color:black;
+    background: lightgray;
+    padding:3px;
+    width:10px;
+    height:12px;
+}
