@@ -1,0 +1,39 @@
+      <div class='top-bar-div'>
+
+                <h1 class='payment-settings-heading'>Payment settings</h1>
+
+                <a class='account-id' href='#'>Xyz name (62223212456446797)</a>
+                
+                <ion-icon class='account-id-icon' name="caret-down-outline"></ion-icon>
+
+            </div>
+
+
+
+.account-id{
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    top:22px;
+    left:1170px;
+    border:1px solid #d1d1d1;
+    padding:8px;
+    padding-left:12px;
+    padding-right:65px;
+    border-radius:8px;;
+    background:white ;
+    word-spacing: px;
+    font-size:14px;
+    cursor: default;
+}
+
+
+.account-id-icon{
+    position: absolute;
+    left:1430px;
+    top:32px;
+    font-size:14px;
+    color:#444950;
+    opacity:75% ;
+
+}
