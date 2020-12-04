@@ -1,0 +1,473 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.header-section{
+    background:rgba(65,73,86);
+    height:645px;
+    width:100%;
+    margin-top:px;
+}
+
+.header-icon-image{
+    width:480px;
+    height:290px;
+    margin-top:299px;
+    margin-left:530px;
+}
+
+.header-heading{
+    color:white;
+    font-size:40px;
+    text-align: center;
+    margin-top:-520px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.header-column{
+    display:flex;
+    flex-direction:column;
+}
+
+.header-para{
+    color:white;
+    text-align: center;
+    font-size:23px;
+    margin-top:-40px;
+    word-spacing: 2px;
+    opacity:55%;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+.facebook-logo-box{
+    border-radius:3px;
+    width:28px;
+    height:27px;
+    border:1px solid white;
+    box-shadow:3px 1px 1px solid lightgray;
+    margin-left:22px;
+    margin-top:22px;
+    background: white;  
+    padding-bottom:;
+    padding-top:px;
+}
+
+.facebook-logo{
+    color:rgba(65,73,86);
+    margin-left:12px;
+    margin-top:;
+    font-size:31px;
+    text-decoration: none;
+    font-weight:bold;
+    font-family:'Roboto';
+
+}
+
+.header-top-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.business{
+    text-decoration: none;
+    color:white;
+    position: relative;
+    left:42px;
+    top:-44px;
+    font-size:24px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.create-account-button{
+    text-decoration: none;
+    color:white;
+    border:1px solid #1877f2;
+    background: #1877f2;
+    white-space: nowrap;
+    height:17px;
+    padding-top:12px;
+    padding-left: 20px;
+    padding-bottom:12px;
+    padding-right:18px;
+    margin-left: 1280px;
+    margin-top:13px;
+    border-radius:3px;
+    font-family: 'Montserrat';
+    font-size:14px;
+}
+
+.middle-page-heading,.middle-page-heading-2{
+    text-align: center;
+    font-size:30px;
+    opacity: 75%;
+}
+
+.middle-page-heading{
+    margin-top: 60px;
+}
+
+.middle-page-heading-2{
+    margin-top:130px;
+    line-height: 35px;
+    word-spacing: 2px;    
+}
+
+.underline-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left:500px;
+}
+
+.middle-page-underline,.middle-page-underline-2,.bottom-section-line{
+    width:530px;
+    height:1px;
+    background: lightgray;
+    margin-left: 500px;
+}
+
+.middle-page-underline,.middle-page-underline-2{
+    margin-top: -11px; 
+    margin-left: 500px;
+}
+
+.bottom-section-line{
+    margin-top:17px;
+    margin-left:280px;
+    width:900px;
+}
+
+.middle-page-icons-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:-10px;
+    margin-top:;
+    justify-content: space-around;
+}
+
+.middle-page-icons{
+
+    margin-top:-250px;
+    font-size:38px;
+    border:1px solid lightgray;
+    padding:17px;
+    border-radius:200px;
+    color:lightgray;
+}
+
+.middle-page-content-row{
+    display: flex;
+    flex-direction: column;
+    margin-left:320px;
+    margin-top:40px;
+}
+
+.paras-and-headings-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.middle-page-content-image{
+    width:190px;
+    height:110px;
+    margin-left: 320px;
+    margin-top:18px;
+}
+
+.middle-page-content-column-1{
+    display: flex;
+    flex-direction: column;
+    gap:65px;
+}
+
+.middle-page-para-headings{
+    margin-left:558px;
+    margin-top:-170px;
+    font-size:25px;
+    font-family:;
+    opacity: 88%;
+}
+
+.middle-page-paras{
+    margin-left:560px;
+    margin-top:-153px;
+    color:gray;
+}
+
+.manage-business-image{
+    width:630px;
+    height:500px;
+    margin-left:440px;
+    margin-top:42px;
+}
+
+.manage-business-text{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top:3px;
+    color:gray;
+}
+
+.manage-business-text:nth-child(1){
+    font-family: 'Roboto';
+    color:gray;
+    opacity: 85%;
+}
+
+.manage-business-text:nth-child(2){
+    margin-top:-7px;
+}
+
+.bottom-section{
+    background:#F5F6F7;
+    margin-top: 47px;
+    height:200vh;
+}
+
+.bottom-section-heading{
+    text-align:center;
+    font-size:32px;
+    opacity: 65%;
+}
+
+.bottom-section-ul{
+    display: flex;
+    flex-direction: row;
+    gap:72px;
+    margin-left:320px;
+}
+
+.bottom-section-li{
+    list-style: none;
+}
+
+
+.bottom-section-links,.understanding-roles-link{
+    text-decoration: none;
+    color:black;
+    font-size:20px;
+}
+
+.understanding-roles-link{
+    margin-left:647px;
+}
+
+.bottom-section-para,.bottom-section-smaller-box-para,.footer-section-para,.bottom-section-smaller-box-para-2{
+    font-size:14px;
+    word-spacing: 2px;
+}
+
+.bottom-section-para{
+    margin-left: 292px;
+}
+
+.bottom-section-para:nth-child(5){
+
+}
+
+.bottom-section-para:nth-child(5),.bottom-section-para:nth-child(7),.bottom-section-para:nth-child(13){
+    font-size:18px;
+    margin-left: 288px;
+}
+
+.bottom-section-para:nth-child(7){
+    margin-top:35px;
+}
+
+summary{
+    margin-top:50px;
+    margin-left:290px;
+    outline:none;
+    font-size:14px;
+    color:#385898;
+}
+
+summary:hover{
+    text-decoration: underline;
+    cursor:pointer;
+}
+
+summary::target{
+    transition: .2s;
+}
+
+.bold-letters{
+    font-family:'Roboto';
+}
+
+.bottom-section-ul-2,.bottom-section-ul-2-last{
+    margin-left: 270px;
+}
+
+.bottom-section-li-2{
+    font-size: 12px;
+    color:#385898;
+}
+
+.bottom-section-ul-2-last{
+    font-size: 14px;
+    color:;
+}
+
+.bottom-section-links-2,.already-business-manager-link{
+    text-decoration: none;
+    color:#385898;
+    font-size:13px;
+    line-height: 32px;
+}
+
+.bottom-section-links-2:hover{
+    text-decoration: underline;
+}
+
+.already-business-manager-link{
+    margin-left:290px;
+}
+
+.bottom-section-smaller-box{
+    width:880px;
+    height:100px;
+    background: ;
+    border:1px solid lightgray;
+    margin-left: 290px;
+    margin-top: 12px;
+}
+
+
+.bottom-section-smaller-box-para,.bottom-section-smaller-box-para-2{    
+    margin-top: 8px;
+}
+
+.bottom-section-smaller-box-para{
+    margin-left:18px;
+}
+
+.bottom-section-smaller-box-para-2{
+    margin-left:287px;
+}
+
+.input-radio-row,.input-radio-row-2{
+    display: flex;
+    flex-direction: row;
+    margin-top:-5px;
+}
+
+
+.input-radio-row-2{
+    margin-left: 270px;
+}
+
+input{
+    margin-left:20px;
+}
+
+.radio{
+    font-family: 'Roboto';
+    font-size:13px;
+    margin-left:2px;
+    margin-top: 1px;
+}
+
+.smaller-box-links-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:630px;
+    margin-top:-0px;
+}
+
+.smaller-box-links{
+    font-size: 14px;
+    text-decoration: none;
+    margin-left:13px;
+    color:#385898;
+    white-space: nowrap;
+}
+
+.smaller-box-links:hover{
+    text-decoration: underline;
+}
+
+.bottom-section-ul-2-last{
+    font-size:12px;
+}
+
+.bottom-section-li-2-last{
+    white-space: nowrap;
+    font-size:15px;
+    word-spacing: 2px;
+}
+
+.bottom-section-last-links-column{
+    display:flex;
+    flex-direction: column;
+    margin-left:1085px;
+    margin-top:-50px;
+}
+
+.bottom-section-last-links,.footer-section-links,.business-overview-link{
+    text-decoration: none;
+    color:#385898;
+}
+
+.bottom-section-last-links{
+    font-size:13px;
+}
+
+.bottom-section-last-links:hover,.footer-section-links:hover,.footer-bottom-links:hover,.english-uk:hover,.business-overview-link:hover,.already-business-manager-link:hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
+
+.footer-section-para-column{
+    display: flex;
+    flex-direction:column;
+    margin-top:70px;
+}
+
+.footer-section-para{
+    margin-top:20px;
+    margin-left:360px;
+    color:gray;
+    margin-top:5px;
+    font-size:16px;
+    font-family: 'Roboto';
+}
+
+.footer-bottom-underline{
+    width:1135px;
+    height:1px;
+    background: lightgray;
+    margin-left:200px;
+    margin-top:82px;
+
+}
+
+.footer-bottom-links-row{
+    display: flex;
+    flex-direction: row;
+    margin-top:12px;
+    margin-left:192px;
+
+}
+
+.footer-bottom-links{
+    text-decoration: none;
+    font-size:12px;
+    margin-left:20px;
+    color:#385898;
+}
+
+.facebook-2020,.english-uk{
+    font-size:12px;
+    margin-left:1237px;
+    margin-top:-18px;
+}
+
+.english-uk{
+    color:#385898;
+    margin-top: -13px;
+}
