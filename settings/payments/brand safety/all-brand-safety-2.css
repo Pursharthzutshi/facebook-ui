@@ -1,0 +1,41 @@
+
+.box-3-para{
+    margin-top:-28px;
+    margin-left:20px;
+    font-size:14px;
+}
+
+.box-3-buttons-row{
+    display: flex;
+    flex-direction: row;
+    margin-top:20px;
+}
+
+.yes-button,.no-button{
+    text-decoration: none;
+    color:black;
+    border:1px solid #f2f2f;
+    padding:10px;
+    padding-left:16px;
+    padding-right:16px;
+    font-size:13px;
+    background: #f2f2f2;
+    border-radius:8px;
+    margin-left:6px;
+}
+
+.yes-button:hover,.no-button:hover{
+    background:lightgray;
+}
+
+.yes-button{
+    margin-left:1050px;
+}
+
+.top-notice-box,.box-1,.box-2,.box-3{
+    border:1px solid lightgray;
+    box-shadow: 1px 1px 1px lightgray;
+    border-radius:8px;
+    background: white;
+    margin-left:330px;
+}
