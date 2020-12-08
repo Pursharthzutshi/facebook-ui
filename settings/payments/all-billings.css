@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    font-family: 'arial';
+}
+
+.nav-bar-div{
+    background:#434343;
+    width:100%;
+    height:42px;
+}
+
+.fb{
+    text-decoration: none;
+    color:white;
+    font-family: 'Roboto';
+    position: absolute;
+    top:8;
+    left:10px;
+    font-size:20px;
+}
+
+.nav-bar-left-button-div,.profile-pic-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-bar-left-button-div{
+    margin-left:37px;
+    margin-top:-11px;
+    height:26px;
+    padding-left:5px;
+    padding-right:4px;
+    border:1px solid transparent;
+    border-radius:4px;
+}
+
+.nav-bar-left-button-div:hover,.profile-pic-row:hover{
+    background: #212A34;
+    cursor:pointer; 
+}
+
+.nav-bar-left-button-div:hover{
+    background: #212A34;
+    height:26px;
+    cursor:pointer;
+}
+
+.nav-bar-left-icon{
+    color:white;
+    margin-top:2px;
+    font-size:22px;
+}
+
+.nav-bar-left-button-text{
+    margin-top:3px;
+    color:white;
+    font-family:'Roboto';
+}
+
+.search-row{
+    display:flex;
+    flex-direction:row;
+    margin-top:-32px;
+}
+
+.search-input{
+    border:1px solid transparent;
+    border-radius:6px;
+    margin-left:930px;
+    margin-top:4px;
+    width:370px;
+    height:27px;
+    padding-left:8px;
+}
+
+.search-icon{
+    margin-top: 8px;
+    margin-left:-22px;
+    font-size:14px;
+    color:gray;
+}
+
+.search-input::placeholder{
+    font-size:11px;  
+    color:gray;
+    opacity:85%;
+}
+
+.profile-pic-row{
+    position: relative;
+}
+
+.profile-image{
+    width:25px;
+    height:25px;
+    position: relative;
+    top:-25px;
+    left:1320px;
+    border:1px solid transparent;
+    border-radius:5px;
+}
+
+.profile-name,.arrow-down-icon{
+    text-decoration: none;
+    color:white;
+    font-size:13px;
+    position: relative;
+    top:-35px;
+    left:1324px;
+}
+
+.nav-bar-top-right-icons-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:1438px;
+    margin-top:-56px;
+}
+
+.nav-bar-top-right-icons{
+    font-size:23px;
+    color:white;
+}   
+
+.nav-bar-top-right-icons:nth-last-child(1){
+    margin-left:7px;
+    font-size:25px;
+}
+
+.nav-bar-top-right-icons:nth-last-child(2){
+    margin-left:5px;
+}
+
+.nav-bar-top-right-icons:nth-last-child(3){
+    opacity: 65%;
+}
+
+
+.report-a-problem-link{
+    font-size:12px;
+    text-decoration: none;
+    color:#333333;
+    margin-top:270px;
+    margin-left:1400px;
+    border:1px solid #b2b8c4;
+    border-bottom:px solid transparent;
+    font-family:'roboto';
+    background: #b2b8c4;
+    background:#eef0f1;
+    padding:3px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:7px;
+    white-space:nowrap;
+    position: fixed;
+}
