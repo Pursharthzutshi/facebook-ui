@@ -1,0 +1,220 @@
+
+.left-sidebar-section{
+    margin-top:-497px;
+}
+
+.report-a-problem-link{
+    font-size:12px;
+    text-decoration: none;
+    color:#333333;
+    position: absolute;
+    top:727px;
+    left:1400px;
+    border:1px solid #b2b8c4;
+    border-bottom:1px solid transparent;
+    font-family:'roboto';
+    background: #b2b8c4;
+    background:#eef0f1;
+    padding:3px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:7px;
+    white-space:nowrap;
+    position: fixed;
+}
+
+.top-bar-div{
+    position: fixed;
+    width:1463px;
+    height:58px; 
+    margin-top:-20px;
+    margin-left:55px;
+    z-index: 1;
+}
+
+.account-id{
+    text-decoration:none;
+    color:black;
+    position: absolute;
+    top:-462px;
+    left:1205px;
+    border:1px solid #E6E6E6;
+    padding:8px;
+    padding-left:12px;
+    padding-right:50px;
+    border-radius:8px;;
+    background:#E6E6E6 ;
+    word-spacing: px;
+    font-size:16px;
+    cursor: default;
+}
+
+.account-id-icon{
+    position: absolute;
+    left:1406px;
+    top:-450px;
+    font-size:14px;
+    color:#444950;
+    opacity:75% ;
+
+}
+
+.icons-column-3{
+    margin-top:365px;
+}
+
+.left-sidebar-short-bar{
+    top:540px;
+}
+
+.front-page-heading{
+    margin-left:72px;
+    margin-top:27px;
+    font-size:20px;
+    opacity: 80%;
+    font-family: "roboto";
+}
+
+.box{
+    width:1415px;
+    height:427px;
+    background: white;
+    margin-left:75px;
+    border-radius:8px;
+    border-bottom:1px solid lightgray;
+    border:1px solid lightgray;
+    box-shadow: 1px 1px 1px lightgray;
+
+}
+
+.button-box,.button-box-2{
+    margin-top:20px;
+    padding-top:5px;
+    padding-bottom:7px;
+    border-radius:5px;
+}
+
+.button-box{
+    padding-left:7px;
+    margin-left:16px;
+    width:120px;
+    border:1px solid #63BE09;
+    background: #63BE09;
+}
+
+.button-box-2{
+    padding-left:8px;
+    width:180px;
+    margin-left:1060px;
+    border:1px solid #f2f2f2;
+    background: #f2f2f2;
+
+}
+
+.box-button-icon,.box-button-2-icon-1,.box-button-2-icon-2{
+    font-size:16px;
+    position: relative;
+    top:3px;
+
+}
+
+.box-button-icon{
+    color:white;
+    left:4px;
+}
+
+.box-button-2-icon-1,.box-button-2-icon-2{
+    color:black;
+}
+
+.box-button-2-icon-1{
+    left:-3px;
+}
+
+.box-button-2-icon-2{
+
+}
+
+
+.button,.button-2{
+    text-decoration: none;
+    margin-left:5px;
+    font-size:15px;
+}
+
+.button{
+    color:white;
+    font-family:'Roboto';
+}
+
+.button-2{
+    color:black;
+    font-size:16px;
+    white-space: nowrap;
+    margin-left:-4px;
+    padding-left: 5px;
+
+}
+
+.button-box:hover{
+    background:#498D06;
+    cursor:pointer;
+}
+
+.button-box-row{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.button-box-2{
+    padding-left:13px;
+}
+
+.button-box-2:hover{
+    background:#E5E5E5;
+}
+
+.box-line{
+    margin-top:15px;
+    width:1415px;
+    height:1px;
+    background: lightgray;
+}
+
+.box-ul{
+    display: flex;
+    flex-direction: row;
+    margin-left:-60px;
+}
+
+.box-li{
+    opacity:85%;
+    margin-left:110px;
+    list-style:none;
+}
+
+.box-li:nth-child(7){
+    margin-left:90px;
+}
+
+.box-heading,.box-para{
+    text-align:center;
+    opacity: 85%;
+}
+
+.box-heading{
+    margin-top:120px;
+    font-family: "roboto";
+    font-size:20px;
+}
+
+.box-para{
+    line-height: 16px;
+    font-size:12px;
+    color:gray;
+    margin-top: -15px;
+    font-family: 'Poppins', sans-serif;
+
+
+}

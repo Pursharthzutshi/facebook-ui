@@ -1,0 +1,90 @@
+body{
+    background:#f2f2f2;
+
+}
+
+.report-a-problem-link{
+    font-size:12px;
+    text-decoration: none;
+    color:#333333;
+    position: absolute;
+    top:727px;
+    left:1395px;
+    border:1px solid #b2b8c4;
+    border-bottom:1px solid transparent;
+    font-family:'roboto';
+    background: #b2b8c4;
+    background:#eef0f1;
+    padding:3px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-top:7px;
+    white-space:nowrap;
+    position: fixed;
+}
+
+.left-sidebar-section{
+    position:fixed;
+    margin-left:-5px;
+
+}
+
+.left-sidebar-div{
+    height:750px;
+    width:47px;
+    background: white;
+    padding:2px;
+    border-right:1px solid #E0E0E0;
+}
+
+
+.icons-column-1,.icons-column-2,.icons-column-3{
+    display: flex;
+    flex-direction:column; 
+    margin-left:12px;
+}
+
+.icons-column-1{
+    margin-top:6px;
+}
+
+.icons-column-2{
+    margin-top:14px;
+}
+
+
+
+.icons-1,.icons-2,.icons-3{
+    margin-top:6px;
+    margin-left:-5px;
+    padding:5px;
+    color:#212121;
+    font-size:24px;
+    color:#333333;
+    opacity: 85%;
+}
+
+
+.icons-1:hover,.icons-2:hover,.icons-3:hover{
+    background:#F5F5F5;
+    cursor:pointer;
+    padding:5px;
+    border-radius:5px;
+}
+
+.profile-pic{
+    width:30px;
+    height:30px;
+    border-radius:200px;
+    margin-top:15px;
+    margin-left:-2px;
+}
+
+.left-sidebar-short-bar{
+    width:22px;
+    height:2px;
+    background: lightgray;
+    position: absolute;
+    left:17px;
+}
+
