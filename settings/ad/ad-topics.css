@@ -1,0 +1,169 @@
+
+/*----------------------*/
+
+/* HEADINGS */
+
+/*----------------------*/
+
+
+.ad-preferences-heading{
+    margin-left: 12px;
+    margin-top:65px;
+    white-space: nowrap;
+}
+
+
+.ad-topics-heading{
+    font-size:16px;
+    margin-top:-26px;
+    margin-left:65px;
+}
+
+/*----------------------*/
+
+/* BOX */
+
+/*----------------------*/
+
+
+.box{
+    width:520px;
+    height:270px;
+    background: white;
+    margin-left:690px;
+    margin-top:-177px;
+    border:1px solid lightgray ;
+    box-shadow:0.2px 1px 1px lightgray;
+    border-radius:8px;
+}
+
+/*----------------------*/
+
+/* PARAGRAPHS */
+
+/*----------------------*/
+
+
+.box-heading,.box-top-para{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 10px;
+    font-size:15px;
+    margin-top:18px;
+    margin-left:14px;
+}
+
+.box-top-para{
+    margin-top:18px;
+}
+
+.box-top-para{
+    margin-top:-10px;
+}
+
+
+/*----------------------*/
+
+/* FRONT PAGE HOVER BOX */
+
+/*----------------------*/
+
+
+.front-page-hover-box{
+    margin-top:3px;
+    margin-left:5px;
+    width:500px;
+    height:48px;
+    padding-top:8px;
+    padding-bottom:6px;
+    border-radius:8px;
+}
+
+.front-page-hover-box:hover{
+    background: #f2f2f2;
+    width:500px;
+    cursor: pointer;
+    transition: .1s;
+}
+
+/*----------------------*/
+
+/* ICONS   */
+
+/*----------------------*/
+
+.front-page-icon{
+    font-size:24px;
+    border:1px solid #e4e6eb;
+    border-radius:200px;
+    padding:7px;
+    background: #e4e6eb;
+    margin-left:12px;
+    margin-top:3px;
+}
+
+/*----------------------*/
+
+/* SECTION USEFUL */
+
+/*----------------------*/
+
+
+.section-useful{
+    margin-top:33px;
+    font-size: 14px;
+    margin-left:7px;
+    white-space: nowrap;
+}
+
+
+/*----------------------*/
+
+/* BUTTONS */
+
+/*----------------------*/
+
+
+.see-fewer-button{
+    position: absolute;
+    white-space: nowrap;
+    margin-top:-43px;
+    margin-left:395px;
+    text-decoration: none;
+    color:black;
+    font-family:'Roboto';
+    border:1px solid #e3e3eb;
+    padding:6px;
+    padding-left:10px;
+    padding-right: 8px;
+    background: #e3e3eb;
+    border-radius:5px;
+}
+
+.yes-button,.no-button{
+    text-decoration: none;
+    color:black;
+    border:1px solid #e3e3eb;
+    padding:6px;
+    padding-left:10px;
+    padding-right:10px;
+    background: #e3e3eb;
+    font-family: 'Roboto';
+    border-radius:8px;
+}
+
+.yes-button{
+    position: absolute;
+    left:1100px;
+    top:415px;  
+}
+
+.no-button{
+    position: absolute;
+    left:1160px;
+    top:415px;
+}
+
+.yes-button:hover,.no-button:hover{
+
+    background: #d8dadf ;
+}

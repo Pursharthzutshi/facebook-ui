@@ -1,0 +1,269 @@
+.left-sidebar-bottom-links-div{
+    margin-top:450px;
+}
+
+.front-page-section{
+    margin-top:262px;
+}
+
+/*----------------------*/
+
+/* BOX */
+
+/*----------------------*/
+
+.box-1,.box-2,.box-3{
+    background:white;
+    box-shadow:1px 1px 1px whitesmoke;
+    position: relative;
+    border-radius:8px;
+    border:1px solid lightgray;
+    padding:12px;
+    width:467px;
+    margin-left:708px;
+}
+
+.box-1{
+    height:300px;
+    margin-top:-180px;
+}
+
+.box-2{
+    height:330px;
+    margin-left: 708px;
+    margin-top:12px;
+}
+
+.box-3{
+    height:50px;
+    margin-left:708px;
+    margin-top:14px;
+}
+
+/*----------------------*/
+
+/* LINK */
+
+/*----------------------*/
+
+.learn-more-link{
+    position: absolute;
+    left:405px;
+    top:12px;
+    text-decoration: none;
+    color:#1c74f3;
+    font-size: 15px;
+}
+
+/*----------------------*/
+
+/* ICONS */
+
+/*----------------------*/
+
+.question-icon{
+    margin-left:-4px;
+    margin-top:-3px;
+    font-size:40px;
+}
+
+.box-2-icon-1,.box-3-icon-1{
+    font-size:24px;
+    border:1px solid #e4e6eb;
+    border-radius:200px;
+    padding:3px;
+    background: #e4e6eb;
+    margin-left:8px;
+    margin-top:4px;
+}
+
+
+.box-2-icon-2{
+    color:gray;
+    font-size: 32px;
+    margin-left:440px;
+    margin-top:-70px;
+}
+
+.box-2-icon-2-third,.box-2-icon-2-fourth,.box-3-icon-2{
+    color:gray;
+    font-size: 32px;
+    margin-left:440px;
+    margin-top:-55px;
+}
+
+.box-1-smaller-box{
+    padding:12px;
+    width:380px;
+    height:220px;
+    background: white;
+    margin-left:15px;
+    margin-top:-8px;
+    border:1px solid lightgray;
+    border-radius:8px;
+    box-shadow: 1px 1px 1px 1px whitesmoke;
+}
+
+/*----------------------*/
+
+/* HEADING  */
+
+/*----------------------*/
+
+.box-1-smaller-box-heading{
+    font-family: 'Roboto';
+    margin-left:1px;
+    margin-top:3px;
+}
+
+.box-1-heading{
+    font-family:'Roboto';
+    margin-left:12px;
+    margin-top:14px;
+}
+
+.manage-data-heading{
+    font-family: 'Roboto';
+    margin-top:3px;
+}
+
+.advertisers-heading-2{
+    font-size:16px;
+    margin-top:-31px;
+    margin-left:55px;
+}
+
+/*----------------------*/
+
+/* PARAGRAPHS  */
+
+/*----------------------*/
+
+.box-1-smaller-box-para{
+    font-size:15px;
+    line-height:20px;
+    margin-top: -10px;
+    margin-left:2px;
+}
+
+.box-2-para,.box-3-para{
+    font-size:14px;
+    color:gray;
+    margin-left:56px;
+    margin-top: -9px;
+}
+
+/*----------------------*/
+
+/* FRONT PAGE HOVER BOX */
+
+/*----------------------*/
+
+.front-page-hover-box-2,.front-page-hover-box-2-third,.front-page-hover-box-2-fourth,.front-page-hover-box-2-fourth{
+    margin-top:-13px; 
+    margin-left:-5px;
+    width:477px;
+    padding-top:8px;
+    border-radius:8px;
+}
+
+.front-page-hover-box-2{
+    height:70px;
+}
+
+.front-page-hover-box-2-third,.front-page-hover-box-2-fourth{
+    height:55px;
+}
+
+.front-page-hover-box-3{
+    margin-top:-6px;
+    margin-left:-5px;
+    width:477px;
+    height:75px;
+    padding-top:8px;
+    border-radius:8px;
+}
+
+.front-page-hover-box-2-third:hover,.front-page-hover-box-2-fourth:hover,.front-page-hover-box-3:hover{
+    background: #f2f2f2;
+    width:477px;
+    height: 55px;
+    cursor: pointer;
+    transition: .1s;
+}
+
+.front-page-hover-box-2:hover{
+    height:70px;
+    background: #f2f2f2;
+}
+
+
+/*----------------------*/
+
+/* UNDERLINE */
+
+/*----------------------*/
+
+
+.box-underline,.box-3-underline{
+    height:2px;
+    background:lightgray;
+}
+
+.box-underline{
+    margin-top:-4px;
+    width:530px;
+    margin-top:45px;
+}
+
+.box-3-underline{
+    width:500px;
+    margin-top: 40px;
+    margin-left:700px;
+}
+
+/*----------------------*/
+
+/* SECTION USEFFUL */
+
+/*----------------------*/
+
+.section-useful{
+    margin-top:20px;
+    font-size: 14px;
+    margin-left:717px;
+    white-space: nowrap;
+}
+
+/*----------------------*/
+
+/* BUTTONS */
+
+/*----------------------*/
+
+.yes-button,.no-button{
+    text-decoration: none;
+    color:black;
+    border:1px solid #e3e3eb;
+    padding:6px;
+    padding-left:10px;
+    padding-right:10px;
+    background: #e3e3eb;
+    font-family: 'Roboto';
+    border-radius:8px;
+    top:915px;
+}
+
+.yes-button{
+    position: absolute;
+    left:1100px;
+}
+
+.no-button{
+    position: absolute;
+    left:1156px;
+}
+
+.yes-button:hover,.no-button:hover{
+    background: #d8dadf ;
+}
