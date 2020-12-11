@@ -1,0 +1,138 @@
+body{
+    font-family: '';
+}
+
+.left-sidebar-div{
+    margin-top:-478px;
+}
+
+.box-line,.box-line-2,.box-line-3{
+    width:1170px;
+    height:1px;
+}
+
+.box-line{
+    background: lightgray;
+    margin-top:15px;
+}
+
+.box-line-2{
+    background: black;
+    margin-top:0px;
+    margin-left:0px;
+}
+
+.box-line-3{
+    background: lightgray;
+}
+
+.box-headings-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:-60px;
+}
+
+.box-headings{
+    margin-left:115px;
+    opacity: 85%;
+}
+
+.box-headings:nth-child(2){
+    margin-left:350px;
+}
+
+.box-headings:nth-child(5){
+    margin-left:245px;
+}
+
+.box{
+    height:362px;
+
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+
+
+}
+
+::-webkit-scrollbar-thumb {
+
+    background: lightgray;
+}
+
+.hover-box{
+    height:77px;
+}
+
+.hover-box:hover{
+    background: #f2f2f2;
+    cursor:pointer;
+    height:77px;
+}
+
+.check-box{
+    border:1px solid lightgray;
+    border-radius:8px;
+    outline:none;
+    height:25px;
+    width:25px;
+    position: relative;
+    top:-10px;
+    left:10px;
+}
+
+.posts-image{
+    border-radius:4px;
+    margin-left:20px;
+    margin-top:12px;
+}
+
+.reach-column,.engagement-column{
+    display:flex;
+    flex-direction: column;
+    margin-top:-65px;
+}
+
+.reach-column{
+    margin-left: 440px;
+}
+
+.engagement-column{
+    margin-left:600px;
+}
+
+.reach-no,.people-reached,.engagement-no,.posts-engagement{
+    color:gray;
+}
+
+.people-reached,.posts-engagement{
+    margin-top:-14px;
+}
+
+.reach-short-bar,.engagement-short-bar{
+    height: 8px;
+    border-radius:5px;
+    margin-top:-15px;
+}
+
+.reach-short-bar{
+    width:100px;
+    background: orange;
+}
+
+.engagement-short-bar{
+    width:125px;
+    background: #63BE09;
+}
+
+.date{
+    margin-top:-33px;
+    margin-left:790px;
+}
+
+.privacy{
+    color:gray;
+    margin-left:1065px;
+    margin-top:-36px;
+}
