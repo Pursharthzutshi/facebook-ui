@@ -1,0 +1,181 @@
+body{
+    font-family:sans-serif;
+}
+
+.left-sidebar-div{
+    margin-top:-174px;
+}
+
+.left-sidebar-bottom-underline{
+    margin-left:15px;
+    margin-top:433px;
+}
+
+
+.front-page-heading{
+    font-family:'Roboto';
+    font-size:32px;
+    margin-top:172px;
+    margin-left:380px;
+}
+
+.account-id{
+    top:-92px;
+    left:1166px;
+}
+
+.account-id-icon{
+    left:1438px;
+    top:-82px;
+}
+
+.front-page-image{
+    border-bottom:1px solid #f2f2f2;
+    width:700px;
+    height:280px;
+    margin-top: -190px;
+    margin-left:780px;
+    z-index: 1;
+   
+}
+
+.box-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:320px;
+}
+
+.box,.summary-box{
+    border:1px solid lightgray;
+    box-shadow:1px 1px 1px lightgray;
+    border-radius:8px;
+    width:377px;
+    height:240px;
+    background: white;
+}
+
+.box{
+    margin-top:-6px;
+    margin-left:12px;
+}
+
+.summary-box{
+    margin-top:12px;
+    margin-left:335px;
+}
+
+.box-image{
+    margin-left:20px;
+    margin-top:20px;
+    width:55px;
+    height:60px;
+}
+
+.box-heading{
+    opacity:85%;
+    font-family: 'Roboto';
+    margin-top:-58px;
+    margin-left:90px;   
+}
+
+.box-para,.box-para-2{
+    margin-top:-5px;
+    margin-left:90px;
+    font-size:14px;
+    line-height:21px;
+}
+
+.box-para-2{
+    color:#737373;
+}
+
+.info-icon{
+    color:#444950;
+}
+
+.recommended-para{
+    white-space: nowrap;
+    border-radius:3px;
+    margin-left:90px;
+    width:130px;
+    padding:3px;
+    font-family: 'Roboto';
+    color:#1877F2;
+    border:1px solid #1877F2;;
+    font-size:11px;
+}
+
+.button-row,.box-3-button-row{
+    display: flex;
+    flex-direction: row;
+    margin-left:162px;
+
+}
+
+.button-row{
+    margin-top:15px;
+}
+
+.box-3-button-row{
+    margin-top:70px;
+}
+
+.button-row:nth-child(5){
+    margin-top:50px;
+}
+
+.button-box,.button-box-2{
+    white-space: nowrap;
+    border-radius:6px;
+    padding:9px;
+    padding-left:14px;
+    padding-right:12px;
+}
+
+.button-box{
+    border:1px solid #F2F2F2;
+    background: #F2F2F2; 
+    margin-left:-12px;
+}
+
+.button-box-2{
+    border:1px solid #1877F2;
+    background: #1877F2; 
+    margin-left:10px;
+}
+
+.button-box:hover,.button-box-2:hover{
+    cursor: pointer;
+    transition: .2s;
+}
+
+.button-box:hover{
+    background: #E5E5E5; 
+}
+
+.button-box-2:hover{
+    background: #0B5ECA; 
+}
+
+
+.button,.button-2{
+    font-size:14px;
+    text-decoration:none;
+}
+
+.button{
+    color:black;
+}
+
+.button-2{
+    font-family:'Roboto';
+    color:white;
+}
+
+summary{
+    color:blue;
+    font-size:13px;
+    outline:none;
+    margin-top:20px;
+    margin-left:340px;
+}

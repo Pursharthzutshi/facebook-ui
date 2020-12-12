@@ -1,0 +1,82 @@
+body{
+    font-family: sans-serif;
+}
+
+.left-sidebar-div{
+    margin-top:-374px;
+}
+
+.left-sidebar-bottom-underline{
+    margin-left:15px;
+    margin-top:442px;
+}
+
+
+.front-page-image{
+    width:270px;
+    height:150px;
+    margin-top: 90px;
+    margin-left:690px;
+}
+
+.front-page-heading,.front-page-heading-para{
+    font-family: 'Roboto';
+    text-align:center;
+    margin-left: 120px;
+}
+
+.front-page-heading{
+    font-size:20px;
+}
+
+.front-page-heading-para{
+    font-size:17px;
+    margin-top:-12px; 
+}
+
+.account-id{
+    top:-255px;
+    left:1005px;
+}
+
+.account-id-icon{
+    left:1277px;
+    top:-245px;
+}
+
+.button-box,.button-box-2{
+    white-space: nowrap;
+    border-radius:6px;
+    padding:9px;
+    width:105px;
+    padding-left:14px;
+    padding-right:12px;
+}
+
+.button-box,.button-box-2{
+    border:1px solid #00A400;
+    background: #00A400; 
+}
+
+.button-box{
+    margin-left:1370px;
+    margin-top: -316px;
+}
+
+.button-box-2{
+    margin-left:775px;
+    margin-top: 280px;
+}
+
+.button-box:hover,.button-box-2:hover{
+    cursor: pointer;
+    transition: .2s;
+    background: #008C00; 
+}
+
+.button,.button-2{
+    font-size:14px;
+    text-decoration:none;
+    font-family:'Roboto';
+    color:white;
+}
