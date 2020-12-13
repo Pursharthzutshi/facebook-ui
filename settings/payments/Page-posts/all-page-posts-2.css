@@ -85,7 +85,6 @@
 .left-sidebar-bottom-icons-row{
     display: flex;
     flex-direction:row;
-
 }
 
 .left-sidebar-bottom-icons{
@@ -193,7 +192,7 @@
     width:1463px;
     height:58px; 
     margin-top:-60px;
-    margin-left:55px;
+    margin-left:33px;
 }
 
 .account-id{
@@ -202,7 +201,7 @@
 }
 
 .account-id-icon{
-    left:1423px;
+    left:1440px;
     top:32px;
 }
 
