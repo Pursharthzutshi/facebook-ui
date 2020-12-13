@@ -1,0 +1,62 @@
+body{
+    background: #f2f2f2;
+}
+
+.nav-bar-left-button-div{
+    width:160px;
+}
+
+.nav-bar-left-button-div:hover{
+    width:160px;
+}
+
+.box,.table-box{
+    border:1px solid lightgray;
+    background: white;
+    margin-left:20px;
+}
+
+.box{
+    box-shadow: 1px 1px 1px lightgray;
+    width:1470px;
+    height:673px;
+    border-radius:8px;
+}
+
+.table-box{
+    border-right:1px solid transparent;
+    width:1446px;
+    height:133px;
+}
+
+.box-heading,.box-para{
+    margin-left:15px;
+    opacity: 88%;
+}
+
+.box-heading{
+    font-family:'Roboto';
+}
+
+.box-para{
+    font-size:14px;
+    margin-top:-10px;
+}
+
+.vertical-lines-row{
+    height:200px;
+    width:1px;
+    background: lightgray;
+    display: flex;
+    flex-direction: row;
+    margin-left: 70px;
+    margin-top:-13px;
+}
+
+.vertical-lines{
+    margin-left:10px;
+}
+
+.vertical-lines:nth-child(3){
+    margin-left: 40px;
+}
