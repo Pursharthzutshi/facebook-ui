@@ -1,0 +1,174 @@
+body{
+    font-family: sans-serif;
+}
+
+.front-page-heading,.front-page-heading-2,.front-page-heading-3,.box-headings,.box-2-heading{
+    font-family: 'Roboto';
+}
+
+.box-links,.bottom-section-links,.facebook-2020-link{
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.box-links{
+    color:black;
+}
+
+.bottom-section-links,.facebook-2020-link{
+    color:#65676B;
+    margin-top: 16px;
+    font-size:14px;
+}
+
+.front-page-heading,.front-page-heading-2,.front-page-heading-3{
+    margin-top:120px;
+    margin-left:320px;
+}
+
+.front-page-heading-2,.front-page-heading-3{
+    margin-top:52px;
+    font-size: 18px;
+}
+
+.box-row,.bottom-section-links-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.bottom-section-links-row{
+    margin-left:400px;
+}
+
+.box-row{
+    margin-left:310px;
+}
+
+.search-bar{
+    border:1px solid  #F0F2F5;
+    background:  #F0F2F5;
+    outline:none;
+    border-radius:12px;
+    width:830px;
+    padding:27px;
+    margin-left:300px;
+    margin-top:-15px;
+}
+
+.search-bar::placeholder{
+    padding-left: 7px;
+    font-size:15px;
+}
+
+.search-icon{
+    position: relative;
+    left:333px;
+    top:4px;
+    font-size:19px;
+    color:gray;
+}
+
+.front-page-heading{
+    font-size:25px;
+}
+
+.box,.box-2{
+    background: #F0F2F5;
+    border-radius:8px;
+}
+
+.box{
+    width:260px;
+    height:293px;
+    margin-left:21px;
+    cursor: pointer;
+}
+
+.box-2{
+    width:835px;
+    height:123px;
+    margin-left: 321px;
+    padding-top:25px;
+    cursor: pointer;
+}
+
+.box-heading-para-column,.box-2-heading-para-column,.bottom-section-links-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.box-heading-para-column,.box-2-heading-para-column{
+    margin-left:40px;
+}
+
+.box-images{
+    margin-top:30px;
+    margin-left:70px;
+    width:100px;
+    height:100px;
+}
+
+.box-paras,.box-2-para{
+    line-height:20px;
+    margin-top:-13px;
+    font-size:15px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.box-paras{
+    color:gray;
+}
+
+.box-headings{
+    font-size:17px;
+    margin-top:30px;
+}
+
+.box:hover,.box-2:hover{
+    transition: .1s;
+    background: #E4E6E8;
+}
+
+.box-2-image{
+    margin-left:36px;
+    width:90px;
+    height:90px;
+}
+
+.box-2-heading-para-column{
+    margin-top:-77px;
+    margin-left:140px;
+}
+
+.box-2-icon{
+    color:gray;
+    margin-top:-50px;    
+    font-size:25px;
+    margin-left:760px;
+}
+
+.bottom-section{
+    height:23vh;
+    background:#F0F2F5;
+    margin-top: 110px;
+}
+
+.bottom-section-links-column{
+    margin-left:80px;
+    margin-top:5px;
+}
+
+.facebook-2020-link{
+    font-size:14px;
+    margin-left:10px;
+    margin-top:38px;
+}
+
+.facebook-bottom-section-logo{
+    width:17px;
+    height:17px;
+    color:gray;
+    margin-left:-32px;
+    margin-top:38px;
+}
+
