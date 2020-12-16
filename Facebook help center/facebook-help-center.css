@@ -6,20 +6,11 @@ body{
     font-family: 'Roboto';
 }
 
-.box-links,.bottom-section-links,.facebook-2020-link{
-    text-decoration: none;
-    font-family: 'Noto Sans JP', sans-serif;
-}
 
 .box-links{
     color:black;
 }
 
-.bottom-section-links,.facebook-2020-link{
-    color:#65676B;
-    margin-top: 16px;
-    font-size:14px;
-}
 
 .front-page-heading,.front-page-heading-2,.front-page-heading-3{
     margin-top:120px;
@@ -31,13 +22,9 @@ body{
     font-size: 18px;
 }
 
-.box-row,.bottom-section-links-row{
+.box-row{
     display: flex;
     flex-direction: row;
-}
-
-.bottom-section-links-row{
-    margin-left:400px;
 }
 
 .box-row{
@@ -92,7 +79,7 @@ body{
     cursor: pointer;
 }
 
-.box-heading-para-column,.box-2-heading-para-column,.bottom-section-links-column{
+.box-heading-para-column,.box-2-heading-para-column{
     display: flex;
     flex-direction: column;
 }
@@ -153,16 +140,6 @@ body{
     margin-top: 110px;
 }
 
-.bottom-section-links-column{
-    margin-left:80px;
-    margin-top:5px;
-}
-
-.facebook-2020-link{
-    font-size:14px;
-    margin-left:10px;
-    margin-top:38px;
-}
 
 .facebook-bottom-section-logo{
     width:17px;
@@ -171,4 +148,3 @@ body{
     margin-left:-32px;
     margin-top:38px;
 }
-
