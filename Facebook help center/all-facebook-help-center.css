@@ -3,14 +3,21 @@ body{
     margin:0;
 }
 
-.nav-bar-links-row,.nav-bar-right-side-row{
+.nav-bar-links-row,.nav-bar-right-side-row,.bottom-section-links-row{
     display: flex;
     flex-direction: row;
 }
 
+.help-center-link,.nav-bar-links,.nav-bar-right-side-button,.bottom-section-links,.facebook-2020-link{
+    text-decoration: none;
+}
+
+.bottom-section-links,.facebook-2020-link{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
 .help-center-link,.nav-bar-links,.nav-bar-right-side-button{
     font-family:'Roboto';
-    text-decoration: none;
 }
 
 .nav-bar-right-side-icons,.nav-bar-right-side-button-box{
@@ -123,4 +130,27 @@ body{
     color:black;
     margin-left:15px;
     margin-top:px;
+}
+
+.bottom-section-links,.facebook-2020-link{
+    color:#65676B;
+    margin-top: 16px;
+    font-size:14px;
+}
+
+.bottom-section-links-row{
+    margin-left:400px;
+}
+
+.bottom-section-links-column{
+    display: flex;
+    flex-direction: column;
+    margin-left:80px;
+    margin-top:5px;
+}
+
+.facebook-2020-link{
+    font-size:14px;
+    margin-left:10px;
+    margin-top:35px;
 }
