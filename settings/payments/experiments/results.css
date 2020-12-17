@@ -36,14 +36,13 @@ body{
 
 .account-id{
     top:-255px;
-    left:1005px;
+    left:1055px;
 }
 
 .account-id-icon{
-    left:1277px;
+    left:1327px;
     top:-245px;
 }
-
 .button-box,.button-box-2{
     white-space: nowrap;
     border-radius:6px;
