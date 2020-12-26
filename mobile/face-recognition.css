@@ -1,0 +1,96 @@
+@media screen and (max-width:704px),screen and (max-height:150px){
+
+    body{
+        background: #DADDE1;
+        cursor: pointer;
+        height:670px;
+        bottom: 0;
+        overflow-y: scroll;
+        top: 0;
+    }
+
+    .front-page-section{
+
+    }
+
+    .box-heading,.box-2-heading{
+        font-family: 'Roboto';
+    }
+
+    .box-1,.box-2{
+        margin-left:6px;
+        margin-top:10px;
+        width:460px;
+        border:1px solid lightgray;
+        border-bottom:1px solid lightgray;
+        box-shadow:1px 1px 1px lightgray;
+        border-radius:7px;
+        background: white;
+        padding-left:8px;
+        cursor: pointer;
+    }
+
+    .box-1{
+        height:65px;
+    }
+
+    .box-2{
+        height:80px;
+    }
+
+    .help-center-link{
+        text-decoration: none;
+        color:#576B95;
+    }
+
+    .box-1-para{
+        margin-top:7px;
+        margin-left:px;
+        font-size:14px;
+        color:#4B4F56;
+    }
+
+    .hover-box{
+        padding-top:4px;
+        height:80px;
+        border-top-left-radius:7px;
+        border-top-right-radius:7px;
+    }
+
+    hover-box:hover{
+        text-decoration-color: white;
+        color:white;
+        padding-top:4px;
+        background: #1b74f4;
+        height:80px;
+        cursor: pointer;
+    }
+
+    .box-2-heading{
+        font-size:15px;
+        margin-top: 8px;
+        margin-left: 3px;
+    }
+
+    .yes{
+        font-size:13px;
+        margin-top:-12px;
+        margin-left:4px;   
+    }
+
+    .box-2-icon{
+        margin-top:-50px;
+        margin-left:436px; 
+        background:;
+        color:gray;
+        font-size: 20px;
+    }
+
+    .box-heading{
+        font-size: 15px;
+        opacity: ;
+        color:#4B4F56;
+        margin-left:8px;
+    }
+
+}

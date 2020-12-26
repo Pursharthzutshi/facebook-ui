@@ -1,0 +1,29 @@
+@media screen and (max-width: 704px),screen and (max-height:150px){
+
+    body{
+        margin:0;
+        font-family: sans-serif;
+        cursor: pointer;
+    }
+
+    .top-bar-div{
+        width:100%;
+        padding-top:1px;
+        height:46px;
+        background: #3c549c;
+    }
+
+    .top-bar-div-icon{
+        color:white;
+        font-size:18px;
+        margin-left:10px;
+        margin-top: 12px;
+    }
+
+    .top-bar-heading{
+        color:white;
+        text-align: center;
+        margin-top:-16px;
+    }
+
+}
