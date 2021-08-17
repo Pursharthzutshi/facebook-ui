@@ -1,0 +1,48 @@
+body{
+    font-family:"Montserrat";
+  }
+  
+  ul,.icon-li-row{
+    display:flex;
+  }
+  
+  .icon-li-row{
+    flex-direction:row;  
+  }
+  
+  ul{
+    flex-direction:column;
+  }
+  
+  .left-sidebar{
+    margin-left:-12px;
+    width:13%;
+    box-shadow:.2px .2px 22px .2px lightgrey;
+    padding:2px 2px 12px 12px;
+  }
+  
+  ul{
+    gap:50px;
+  }
+  
+  .icon-li-row{
+    gap:15px;  
+  }
+  
+  ion-icon{
+    font-size:1.3rem;
+  }
+  
+  li{
+    list-style:none;
+  }
+  
+  a{
+    color:black;
+    margin:3px 0px 0px 0px;
+    text-decoration:none;
+  }
+  
+  .container{
+    visibility:hidden;
+  }
