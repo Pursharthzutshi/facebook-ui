@@ -15,9 +15,9 @@ ul,
 
 .left-sidebar {
     margin-left: -12px;
-    width: 13%;
+    width: 10%;
     box-shadow: .2px .2px 22px .2px lightgrey;
-    padding: 2px 2px 12px 12px;
+    padding: 2px 2px 12px 0px;
     border-left: 5px solid black;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
